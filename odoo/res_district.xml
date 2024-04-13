@@ -1,0 +1,3700 @@
+<?xml version="1.0"?>
+<odoo>
+    <data noupdate="1">
+        <record id="res_district_0" model="res.district">
+            <field name="name">อ.เมืองสรวง</field>
+        </record>
+
+        <record id="res_district_481" model="res.district">
+            <field name="name">อ.จตุรพักตรพิมาน</field>
+        </record>
+
+        <record id="res_district_221" model="res.district">
+            <field name="name">อ.อาจสามารถ</field>
+        </record>
+
+        <record id="res_district_220" model="res.district">
+            <field name="name">อ.ปทุมรัตต์</field>
+        </record>
+
+        <record id="res_district_341" model="res.district">
+            <field name="name">อ.โพนทอง</field>
+        </record>
+
+        <record id="res_district_122" model="res.district">
+            <field name="name">อ.เกษตรวิสัย</field>
+        </record>
+
+        <record id="res_district_203" model="res.district">
+            <field name="name">อ.เมืองร้อยเอ็ด</field>
+        </record>
+
+        <record id="res_district_9" model="res.district">
+            <field name="name">อ.หนองพอก</field>
+        </record>
+
+        <record id="res_district_657" model="res.district">
+            <field name="name">อ.ทุ่งเขาหลวง</field>
+        </record>
+
+        <record id="res_district_701" model="res.district">
+            <field name="name">อ.ธวัชบุรี</field>
+        </record>
+
+        <record id="res_district_155" model="res.district">
+            <field name="name">อ.พนมไพร</field>
+        </record>
+
+        <record id="res_district_63" model="res.district">
+            <field name="name">อ.เสลภูมิ</field>
+        </record>
+
+        <record id="res_district_790" model="res.district">
+            <field name="name">อ.ศรีสมเด็จ</field>
+        </record>
+
+        <record id="res_district_218" model="res.district">
+            <field name="name">อ.โพธิ์ชัย</field>
+        </record>
+
+        <record id="res_district_798" model="res.district">
+            <field name="name">อ.เชียงขวัญ</field>
+        </record>
+
+        <record id="res_district_417" model="res.district">
+            <field name="name">อ.สุวรรณภูมิ</field>
+        </record>
+
+        <record id="res_district_692" model="res.district">
+            <field name="name">อ.โพนทราย</field>
+        </record>
+
+        <record id="res_district_408" model="res.district">
+            <field name="name">อ.จังหาร</field>
+        </record>
+
+        <record id="res_district_547" model="res.district">
+            <field name="name">อ.หนองฮี</field>
+        </record>
+
+        <record id="res_district_429" model="res.district">
+            <field name="name">อ.เมยวดี</field>
+        </record>
+
+        <record id="res_district_145" model="res.district">
+            <field name="name">อ.หนองบัวแดง</field>
+        </record>
+
+        <record id="res_district_75" model="res.district">
+            <field name="name">อ.ภูเขียว</field>
+        </record>
+
+        <record id="res_district_149" model="res.district">
+            <field name="name">อ.เมืองชัยภูมิ</field>
+        </record>
+
+        <record id="res_district_174" model="res.district">
+            <field name="name">อ.เกษตรสมบูรณ์</field>
+        </record>
+
+        <record id="res_district_331" model="res.district">
+            <field name="name">อ.คอนสาร</field>
+        </record>
+
+        <record id="res_district_462" model="res.district">
+            <field name="name">อ.แก้งคร้อ</field>
+        </record>
+
+        <record id="res_district_153" model="res.district">
+            <field name="name">อ.จัตุรัส</field>
+        </record>
+
+        <record id="res_district_785" model="res.district">
+            <field name="name">อ.บำเหน็จณรงค์</field>
+        </record>
+
+        <record id="res_district_856" model="res.district">
+            <field name="name">อ.หนองบัวระเหว</field>
+        </record>
+
+        <record id="res_district_95" model="res.district">
+            <field name="name">อ.เนินสง่า</field>
+        </record>
+
+        <record id="res_district_451" model="res.district">
+            <field name="name">อ.บ้านเขว้า</field>
+        </record>
+
+        <record id="res_district_329" model="res.district">
+            <field name="name">อ.คอนสวรรค์</field>
+        </record>
+
+        <record id="res_district_801" model="res.district">
+            <field name="name">อ.บ้านแท่น</field>
+        </record>
+
+        <record id="res_district_732" model="res.district">
+            <field name="name">อ.เทพสถิต</field>
+        </record>
+
+        <record id="res_district_799" model="res.district">
+            <field name="name">อ.ภักดีชุมพล</field>
+        </record>
+
+        <record id="res_district_477" model="res.district">
+            <field name="name">อ.ซับใหญ่</field>
+        </record>
+
+        <record id="res_district_337" model="res.district">
+            <field name="name">อ.วารินชำราบ</field>
+        </record>
+
+        <record id="res_district_213" model="res.district">
+            <field name="name">อ.เขมราฐ</field>
+        </record>
+
+        <record id="res_district_717" model="res.district">
+            <field name="name">อ.นาเยีย</field>
+        </record>
+
+        <record id="res_district_212" model="res.district">
+            <field name="name">อ.สำโรง</field>
+        </record>
+
+        <record id="res_district_62" model="res.district">
+            <field name="name">อ.เดชอุดม</field>
+        </record>
+
+        <record id="res_district_334" model="res.district">
+            <field name="name">อ.บุณฑริก</field>
+        </record>
+
+        <record id="res_district_144" model="res.district">
+            <field name="name">อ.พิบูลมังสาหาร</field>
+        </record>
+
+        <record id="res_district_845" model="res.district">
+            <field name="name">อ.โพธิ์ไทร</field>
+        </record>
+
+        <record id="res_district_37" model="res.district">
+            <field name="name">อ.ตระการพืชผล</field>
+        </record>
+
+        <record id="res_district_50" model="res.district">
+            <field name="name">อ.เมืองอุบลราชธานี</field>
+        </record>
+
+        <record id="res_district_70" model="res.district">
+            <field name="name">อ.เขื่องใน</field>
+        </record>
+
+        <record id="res_district_743" model="res.district">
+            <field name="name">อ.โขงเจียม</field>
+        </record>
+
+        <record id="res_district_219" model="res.district">
+            <field name="name">อ.น้ำขุ่น</field>
+        </record>
+
+        <record id="res_district_716" model="res.district">
+            <field name="name">อ.นาจะหลวย</field>
+        </record>
+
+        <record id="res_district_546" model="res.district">
+            <field name="name">อ.ม่วงสามสิบ</field>
+        </record>
+
+        <record id="res_district_351" model="res.district">
+            <field name="name">อ.ตาลสุม</field>
+        </record>
+
+        <record id="res_district_81" model="res.district">
+            <field name="name">อ.นาตาล</field>
+        </record>
+
+        <record id="res_district_106" model="res.district">
+            <field name="name">อ.กุดข้าวปุ้น</field>
+        </record>
+
+        <record id="res_district_774" model="res.district">
+            <field name="name">อ.น้ำยืน</field>
+        </record>
+
+        <record id="res_district_360" model="res.district">
+            <field name="name">อ.ศรีเมืองใหม่</field>
+        </record>
+
+        <record id="res_district_172" model="res.district">
+            <field name="name">อ.ทุ่งศรีอุดม</field>
+        </record>
+
+        <record id="res_district_865" model="res.district">
+            <field name="name">อ.เหล่าเสือโก้ก</field>
+        </record>
+
+        <record id="res_district_669" model="res.district">
+            <field name="name">อ.สว่างวีระวงศ์</field>
+        </record>
+
+        <record id="res_district_336" model="res.district">
+            <field name="name">อ.สิรินธร</field>
+        </record>
+
+        <record id="res_district_361" model="res.district">
+            <field name="name">อ.ดอนมดแดง</field>
+        </record>
+
+        <record id="res_district_377" model="res.district">
+            <field name="name">อ.คูเมือง</field>
+        </record>
+
+        <record id="res_district_819" model="res.district">
+            <field name="name">อ.ปะคำ</field>
+        </record>
+
+        <record id="res_district_31" model="res.district">
+            <field name="name">อ.สตึก</field>
+        </record>
+
+        <record id="res_district_187" model="res.district">
+            <field name="name">อ.บ้านใหม่ไชยพจน์</field>
+        </record>
+
+        <record id="res_district_581" model="res.district">
+            <field name="name">อ.ละหานทราย</field>
+        </record>
+
+        <record id="res_district_392" model="res.district">
+            <field name="name">อ.ประโคนชัย</field>
+        </record>
+
+        <record id="res_district_532" model="res.district">
+            <field name="name">อ.หนองกี่</field>
+        </record>
+
+        <record id="res_district_32" model="res.district">
+            <field name="name">อ.เมืองบุรีรัมย์</field>
+        </record>
+
+        <record id="res_district_561" model="res.district">
+            <field name="name">อ.ลำปลายมาศ</field>
+        </record>
+
+        <record id="res_district_30" model="res.district">
+            <field name="name">อ.กระสัง</field>
+        </record>
+
+        <record id="res_district_191" model="res.district">
+            <field name="name">อ.นางรอง</field>
+        </record>
+
+        <record id="res_district_782" model="res.district">
+            <field name="name">อ.พุทไธสง</field>
+        </record>
+
+        <record id="res_district_449" model="res.district">
+            <field name="name">อ.ชำนิ</field>
+        </record>
+
+        <record id="res_district_410" model="res.district">
+            <field name="name">อ.บ้านกรวด</field>
+        </record>
+
+        <record id="res_district_786" model="res.district">
+            <field name="name">อ.บ้านด่าน</field>
+        </record>
+
+        <record id="res_district_863" model="res.district">
+            <field name="name">อ.หนองหงส์</field>
+        </record>
+
+        <record id="res_district_508" model="res.district">
+            <field name="name">อ.นาโพธิ์</field>
+        </record>
+
+        <record id="res_district_409" model="res.district">
+            <field name="name">อ.พลับพลาชัย</field>
+        </record>
+
+        <record id="res_district_853" model="res.district">
+            <field name="name">อ.โนนดินแดง</field>
+        </record>
+
+        <record id="res_district_493" model="res.district">
+            <field name="name">อ.แคนดง</field>
+        </record>
+
+        <record id="res_district_229" model="res.district">
+            <field name="name">อ.เฉลิมพระเกียรติ</field>
+        </record>
+
+        <record id="res_district_500" model="res.district">
+            <field name="name">อ.โนนสุวรรณ</field>
+        </record>
+
+        <record id="res_district_590" model="res.district">
+            <field name="name">อ.ห้วยราช</field>
+        </record>
+
+        <record id="res_district_378" model="res.district">
+            <field name="name">อ.มหาชนะชัย</field>
+        </record>
+
+        <record id="res_district_208" model="res.district">
+            <field name="name">อ.เมืองยโสธร</field>
+        </record>
+
+        <record id="res_district_126" model="res.district">
+            <field name="name">อ.กุดชุม</field>
+        </record>
+
+        <record id="res_district_19" model="res.district">
+            <field name="name">อ.ป่าติ้ว</field>
+        </record>
+
+        <record id="res_district_152" model="res.district">
+            <field name="name">อ.ค้อวัง</field>
+        </record>
+
+        <record id="res_district_495" model="res.district">
+            <field name="name">อ.ทรายมูล</field>
+        </record>
+
+        <record id="res_district_134" model="res.district">
+            <field name="name">อ.คำเขื่อนแก้ว</field>
+        </record>
+
+        <record id="res_district_169" model="res.district">
+            <field name="name">อ.เลิงนกทา</field>
+        </record>
+
+        <record id="res_district_353" model="res.district">
+            <field name="name">อ.ไทยเจริญ</field>
+        </record>
+
+        <record id="res_district_158" model="res.district">
+            <field name="name">อ.เขาวง</field>
+        </record>
+
+        <record id="res_district_496" model="res.district">
+            <field name="name">อ.หนองกุงศรี</field>
+        </record>
+
+        <record id="res_district_728" model="res.district">
+            <field name="name">อ.นามน</field>
+        </record>
+
+        <record id="res_district_255" model="res.district">
+            <field name="name">อ.ยางตลาด</field>
+        </record>
+
+        <record id="res_district_831" model="res.district">
+            <field name="name">อ.สมเด็จ</field>
+        </record>
+
+        <record id="res_district_15" model="res.district">
+            <field name="name">อ.กมลาไสย</field>
+        </record>
+
+        <record id="res_district_729" model="res.district">
+            <field name="name">อ.สหัสขันธ์</field>
+        </record>
+
+        <record id="res_district_137" model="res.district">
+            <field name="name">อ.กุฉินารายณ์</field>
+        </record>
+
+        <record id="res_district_66" model="res.district">
+            <field name="name">อ.เมืองกาฬสินธุ์</field>
+        </record>
+
+        <record id="res_district_342" model="res.district">
+            <field name="name">อ.ห้วยผึ้ง</field>
+        </record>
+
+        <record id="res_district_382" model="res.district">
+            <field name="name">อ.ฆ้องชัย</field>
+        </record>
+
+        <record id="res_district_130" model="res.district">
+            <field name="name">อ.ท่าคันโท</field>
+        </record>
+
+        <record id="res_district_711" model="res.district">
+            <field name="name">อ.นาคู</field>
+        </record>
+
+        <record id="res_district_176" model="res.district">
+            <field name="name">อ.ห้วยเม็ก</field>
+        </record>
+
+        <record id="res_district_850" model="res.district">
+            <field name="name">อ.ร่องคำ</field>
+        </record>
+
+        <record id="res_district_348" model="res.district">
+            <field name="name">อ.สามชัย</field>
+        </record>
+
+        <record id="res_district_492" model="res.district">
+            <field name="name">อ.ดอนจาน</field>
+        </record>
+
+        <record id="res_district_543" model="res.district">
+            <field name="name">อ.คำม่วง</field>
+        </record>
+
+        <record id="res_district_685" model="res.district">
+            <field name="name">อ.ท่าลี่</field>
+        </record>
+
+        <record id="res_district_583" model="res.district">
+            <field name="name">อ.หนองหิน</field>
+        </record>
+
+        <record id="res_district_1" model="res.district">
+            <field name="name">อ.เมืองเลย</field>
+        </record>
+
+        <record id="res_district_687" model="res.district">
+            <field name="name">อ.ภูเรือ</field>
+        </record>
+
+        <record id="res_district_4" model="res.district">
+            <field name="name">อ.ด่านซ้าย</field>
+        </record>
+
+        <record id="res_district_829" model="res.district">
+            <field name="name">อ.ภูกระดึง</field>
+        </record>
+
+        <record id="res_district_607" model="res.district">
+            <field name="name">อ.เอราวัณ</field>
+        </record>
+
+        <record id="res_district_399" model="res.district">
+            <field name="name">อ.เชียงคาน</field>
+        </record>
+
+        <record id="res_district_608" model="res.district">
+            <field name="name">อ.วังสะพุง</field>
+        </record>
+
+        <record id="res_district_430" model="res.district">
+            <field name="name">อ.ปากชม</field>
+        </record>
+
+        <record id="res_district_689" model="res.district">
+            <field name="name">อ.นาด้วง</field>
+        </record>
+
+        <record id="res_district_670" model="res.district">
+            <field name="name">อ.ผาขาว</field>
+        </record>
+
+        <record id="res_district_726" model="res.district">
+            <field name="name">อ.นาแห้ว</field>
+        </record>
+
+        <record id="res_district_839" model="res.district">
+            <field name="name">อ.ภูหลวง</field>
+        </record>
+
+        <record id="res_district_12" model="res.district">
+            <field name="name">อ.กบินทร์บุรี</field>
+        </record>
+
+        <record id="res_district_660" model="res.district">
+            <field name="name">อ.นาดี</field>
+        </record>
+
+        <record id="res_district_483" model="res.district">
+            <field name="name">อ.เมืองปราจีนบุรี</field>
+        </record>
+
+        <record id="res_district_17" model="res.district">
+            <field name="name">อ.ศรีมหาโพธิ</field>
+        </record>
+
+        <record id="res_district_27" model="res.district">
+            <field name="name">อ.บ้านสร้าง</field>
+        </record>
+
+        <record id="res_district_358" model="res.district">
+            <field name="name">อ.ประจันตคาม</field>
+        </record>
+
+        <record id="res_district_380" model="res.district">
+            <field name="name">อ.ศรีมโหสถ</field>
+        </record>
+
+        <record id="res_district_742" model="res.district">
+            <field name="name">อ.เถิน</field>
+        </record>
+
+        <record id="res_district_73" model="res.district">
+            <field name="name">อ.เมืองลำปาง</field>
+        </record>
+
+        <record id="res_district_681" model="res.district">
+            <field name="name">อ.เกาะคา</field>
+        </record>
+
+        <record id="res_district_740" model="res.district">
+            <field name="name">อ.งาว</field>
+        </record>
+
+        <record id="res_district_538" model="res.district">
+            <field name="name">อ.แม่ทะ</field>
+        </record>
+
+        <record id="res_district_656" model="res.district">
+            <field name="name">อ.วังเหนือ</field>
+        </record>
+
+        <record id="res_district_414" model="res.district">
+            <field name="name">อ.แม่เมาะ</field>
+        </record>
+
+        <record id="res_district_731" model="res.district">
+            <field name="name">อ.สบปราบ</field>
+        </record>
+
+        <record id="res_district_816" model="res.district">
+            <field name="name">อ.ห้างฉัตร</field>
+        </record>
+
+        <record id="res_district_627" model="res.district">
+            <field name="name">อ.เมืองปาน</field>
+        </record>
+
+        <record id="res_district_631" model="res.district">
+            <field name="name">อ.เสริมงาม</field>
+        </record>
+
+        <record id="res_district_642" model="res.district">
+            <field name="name">อ.แจ้ห่ม</field>
+        </record>
+
+        <record id="res_district_830" model="res.district">
+            <field name="name">อ.แม่พริก</field>
+        </record>
+
+        <record id="res_district_43" model="res.district">
+            <field name="name">อ.กันทรลักษ์</field>
+        </record>
+
+        <record id="res_district_354" model="res.district">
+            <field name="name">อ.กันทรารมย์</field>
+        </record>
+
+        <record id="res_district_505" model="res.district">
+            <field name="name">อ.วังหิน</field>
+        </record>
+
+        <record id="res_district_57" model="res.district">
+            <field name="name">อ.ขุขันธ์</field>
+        </record>
+
+        <record id="res_district_591" model="res.district">
+            <field name="name">อ.เมืองจันทร์</field>
+        </record>
+
+        <record id="res_district_34" model="res.district">
+            <field name="name">อ.ขุนหาญ</field>
+        </record>
+
+        <record id="res_district_121" model="res.district">
+            <field name="name">อ.อุทุมพรพิสัย</field>
+        </record>
+
+        <record id="res_district_72" model="res.district">
+            <field name="name">อ.ห้วยทับทัน</field>
+        </record>
+
+        <record id="res_district_374" model="res.district">
+            <field name="name">อ.เมืองศรีสะเกษ</field>
+        </record>
+
+        <record id="res_district_751" model="res.district">
+            <field name="name">อ.โนนคูณ</field>
+        </record>
+
+        <record id="res_district_421" model="res.district">
+            <field name="name">อ.ราษีไศล</field>
+        </record>
+
+        <record id="res_district_185" model="res.district">
+            <field name="name">อ.ปรางค์กู่</field>
+        </record>
+
+        <record id="res_district_129" model="res.district">
+            <field name="name">อ.ศิลาลาด</field>
+        </record>
+
+        <record id="res_district_665" model="res.district">
+            <field name="name">อ.เบญจลักษ์</field>
+        </record>
+
+        <record id="res_district_595" model="res.district">
+            <field name="name">อ.ศรีรัตนะ</field>
+        </record>
+
+        <record id="res_district_171" model="res.district">
+            <field name="name">อ.ยางชุมน้อย</field>
+        </record>
+
+        <record id="res_district_375" model="res.district">
+            <field name="name">อ.น้ำเกลี้ยง</field>
+        </record>
+
+        <record id="res_district_497" model="res.district">
+            <field name="name">อ.ภูสิงห์</field>
+        </record>
+
+        <record id="res_district_545" model="res.district">
+            <field name="name">อ.ไพรบึง</field>
+        </record>
+
+        <record id="res_district_594" model="res.district">
+            <field name="name">อ.พยุห์</field>
+        </record>
+
+        <record id="res_district_832" model="res.district">
+            <field name="name">อ.โพธิ์ศรีสุวรรณ</field>
+        </record>
+
+        <record id="res_district_770" model="res.district">
+            <field name="name">อ.บึงบูรพ์</field>
+        </record>
+
+        <record id="res_district_2" model="res.district">
+            <field name="name">อ.ดงหลวง</field>
+        </record>
+
+        <record id="res_district_6" model="res.district">
+            <field name="name">อ.นิคมคำสร้อย</field>
+        </record>
+
+        <record id="res_district_338" model="res.district">
+            <field name="name">อ.คำชะอี</field>
+        </record>
+
+        <record id="res_district_516" model="res.district">
+            <field name="name">อ.ดอนตาล</field>
+        </record>
+
+        <record id="res_district_802" model="res.district">
+            <field name="name">อ.หนองสูง</field>
+        </record>
+
+        <record id="res_district_175" model="res.district">
+            <field name="name">อ.เมืองมุกดาหาร</field>
+        </record>
+
+        <record id="res_district_440" model="res.district">
+            <field name="name">อ.หว้านใหญ่</field>
+        </record>
+
+        <record id="res_district_49" model="res.district">
+            <field name="name">อ.ท่าตูม</field>
+        </record>
+
+        <record id="res_district_167" model="res.district">
+            <field name="name">อ.ศีขรภูมิ</field>
+        </record>
+
+        <record id="res_district_114" model="res.district">
+            <field name="name">อ.เมืองสุรินทร์</field>
+        </record>
+
+        <record id="res_district_480" model="res.district">
+            <field name="name">อ.ศรีณรงค์</field>
+        </record>
+
+        <record id="res_district_38" model="res.district">
+            <field name="name">อ.สังขะ</field>
+        </record>
+
+        <record id="res_district_422" model="res.district">
+            <field name="name">อ.พนมดงรัก</field>
+        </record>
+
+        <record id="res_district_35" model="res.district">
+            <field name="name">อ.จอมพระ</field>
+        </record>
+
+        <record id="res_district_556" model="res.district">
+            <field name="name">อ.ลำดวน</field>
+        </record>
+
+        <record id="res_district_100" model="res.district">
+            <field name="name">อ.ปราสาท</field>
+        </record>
+
+        <record id="res_district_36" model="res.district">
+            <field name="name">อ.สำโรงทาบ</field>
+        </record>
+
+        <record id="res_district_39" model="res.district">
+            <field name="name">อ.ชุมพลบุรี</field>
+        </record>
+
+        <record id="res_district_107" model="res.district">
+            <field name="name">อ.กาบเชิง</field>
+        </record>
+
+        <record id="res_district_344" model="res.district">
+            <field name="name">อ.โนนนารายณ์</field>
+        </record>
+
+        <record id="res_district_136" model="res.district">
+            <field name="name">อ.รัตนบุรี</field>
+        </record>
+
+        <record id="res_district_390" model="res.district">
+            <field name="name">อ.บัวเชด</field>
+        </record>
+
+        <record id="res_district_722" model="res.district">
+            <field name="name">อ.สนม</field>
+        </record>
+
+        <record id="res_district_579" model="res.district">
+            <field name="name">อ.เขวาสินรินทร์</field>
+        </record>
+
+        <record id="res_district_142" model="res.district">
+            <field name="name">อ.เมืองหนองบัวลำภู</field>
+        </record>
+
+        <record id="res_district_161" model="res.district">
+            <field name="name">อ.สุวรรณคูหา</field>
+        </record>
+
+        <record id="res_district_165" model="res.district">
+            <field name="name">อ.ศรีบุญเรือง</field>
+        </record>
+
+        <record id="res_district_147" model="res.district">
+            <field name="name">อ.โนนสัง</field>
+        </record>
+
+        <record id="res_district_739" model="res.district">
+            <field name="name">อ.นาวัง</field>
+        </record>
+
+        <record id="res_district_146" model="res.district">
+            <field name="name">อ.นากลาง</field>
+        </record>
+
+        <record id="res_district_164" model="res.district">
+            <field name="name">อ.เมืองอุดรธานี</field>
+        </record>
+
+        <record id="res_district_615" model="res.district">
+            <field name="name">อ.หนองแสง</field>
+        </record>
+
+        <record id="res_district_355" model="res.district">
+            <field name="name">อ.ไชยวาน</field>
+        </record>
+
+        <record id="res_district_503" model="res.district">
+            <field name="name">อ.บ้านดุง</field>
+        </record>
+
+        <record id="res_district_69" model="res.district">
+            <field name="name">อ.บ้านผือ</field>
+        </record>
+
+        <record id="res_district_712" model="res.district">
+            <field name="name">อ.น้ำโสม</field>
+        </record>
+
+        <record id="res_district_531" model="res.district">
+            <field name="name">อ.หนองหาน</field>
+        </record>
+
+        <record id="res_district_140" model="res.district">
+            <field name="name">อ.กุดจับ</field>
+        </record>
+
+        <record id="res_district_400" model="res.district">
+            <field name="name">อ.เพ็ญ</field>
+        </record>
+
+        <record id="res_district_605" model="res.district">
+            <field name="name">อ.โนนสะอาด</field>
+        </record>
+
+        <record id="res_district_330" model="res.district">
+            <field name="name">อ.กู่แก้ว</field>
+        </record>
+
+        <record id="res_district_506" model="res.district">
+            <field name="name">อ.พิบูลย์รักษ์</field>
+        </record>
+
+        <record id="res_district_643" model="res.district">
+            <field name="name">อ.ทุ่งฝน</field>
+        </record>
+
+        <record id="res_district_166" model="res.district">
+            <field name="name">อ.หนองวัวซอ</field>
+        </record>
+
+        <record id="res_district_733" model="res.district">
+            <field name="name">อ.นายูง</field>
+        </record>
+
+        <record id="res_district_180" model="res.district">
+            <field name="name">อ.กุมภวาปี</field>
+        </record>
+
+        <record id="res_district_734" model="res.district">
+            <field name="name">อ.สร้างคอม</field>
+        </record>
+
+        <record id="res_district_357" model="res.district">
+            <field name="name">อ.วังสามหมอ</field>
+        </record>
+
+        <record id="res_district_730" model="res.district">
+            <field name="name">อ.ประจักษ์ศิลปาคม</field>
+        </record>
+
+        <record id="res_district_418" model="res.district">
+            <field name="name">อ.ศรีธาตุ</field>
+        </record>
+
+        <record id="res_district_194" model="res.district">
+            <field name="name">อ.พยัคฆภูมิพิสัย</field>
+        </record>
+
+        <record id="res_district_507" model="res.district">
+            <field name="name">อ.โกสุมพิสัย</field>
+        </record>
+
+        <record id="res_district_163" model="res.district">
+            <field name="name">อ.กุดรัง</field>
+        </record>
+
+        <record id="res_district_530" model="res.district">
+            <field name="name">อ.เมืองมหาสารคาม</field>
+        </record>
+
+        <record id="res_district_211" model="res.district">
+            <field name="name">อ.วาปีปทุม</field>
+        </record>
+
+        <record id="res_district_178" model="res.district">
+            <field name="name">อ.กันทรวิชัย</field>
+        </record>
+
+        <record id="res_district_737" model="res.district">
+            <field name="name">อ.นาเชือก</field>
+        </record>
+
+        <record id="res_district_118" model="res.district">
+            <field name="name">อ.บรบือ</field>
+        </record>
+
+        <record id="res_district_843" model="res.district">
+            <field name="name">อ.แกดำ</field>
+        </record>
+
+        <record id="res_district_188" model="res.district">
+            <field name="name">อ.นาดูน</field>
+        </record>
+
+        <record id="res_district_159" model="res.district">
+            <field name="name">อ.ชื่นชม</field>
+        </record>
+
+        <record id="res_district_186" model="res.district">
+            <field name="name">อ.เชียงยืน</field>
+        </record>
+
+        <record id="res_district_502" model="res.district">
+            <field name="name">อ.ยางสีสุราช</field>
+        </record>
+
+        <record id="res_district_215" model="res.district">
+            <field name="name">อ.คง</field>
+        </record>
+
+        <record id="res_district_403" model="res.district">
+            <field name="name">อ.เมืองนครราชสีมา</field>
+        </record>
+
+        <record id="res_district_771" model="res.district">
+            <field name="name">อ.เทพารักษ์</field>
+        </record>
+
+        <record id="res_district_48" model="res.district">
+            <field name="name">อ.โชคชัย</field>
+        </record>
+
+        <record id="res_district_21" model="res.district">
+            <field name="name">อ.พิมาย</field>
+        </record>
+
+        <record id="res_district_10" model="res.district">
+            <field name="name">อ.ห้วยแถลง</field>
+        </record>
+
+        <record id="res_district_384" model="res.district">
+            <field name="name">อ.ปักธงชัย</field>
+        </record>
+
+        <record id="res_district_162" model="res.district">
+            <field name="name">อ.ด่านขุนทด</field>
+        </record>
+
+        <record id="res_district_59" model="res.district">
+            <field name="name">อ.สีคิ้ว</field>
+        </record>
+
+        <record id="res_district_849" model="res.district">
+            <field name="name">อ.วังน้ำเขียว</field>
+        </record>
+
+        <record id="res_district_25" model="res.district">
+            <field name="name">อ.ประทาย</field>
+        </record>
+
+        <record id="res_district_454" model="res.district">
+            <field name="name">อ.ชุมพวง</field>
+        </record>
+
+        <record id="res_district_302" model="res.district">
+            <field name="name">อ.จักราช</field>
+        </record>
+
+        <record id="res_district_245" model="res.district">
+            <field name="name">อ.ครบุรี</field>
+        </record>
+
+        <record id="res_district_811" model="res.district">
+            <field name="name">อ.หนองบุญมาก</field>
+        </record>
+
+        <record id="res_district_141" model="res.district">
+            <field name="name">อ.สูงเนิน</field>
+        </record>
+
+        <record id="res_district_237" model="res.district">
+            <field name="name">อ.ลำทะเมนชัย</field>
+        </record>
+
+        <record id="res_district_217" model="res.district">
+            <field name="name">อ.โนนสูง</field>
+        </record>
+
+        <record id="res_district_40" model="res.district">
+            <field name="name">อ.เมืองยาง</field>
+        </record>
+
+        <record id="res_district_772" model="res.district">
+            <field name="name">อ.แก้งสนามนาง</field>
+        </record>
+
+        <record id="res_district_138" model="res.district">
+            <field name="name">อ.บัวใหญ่</field>
+        </record>
+
+        <record id="res_district_177" model="res.district">
+            <field name="name">อ.เสิงสาง</field>
+        </record>
+
+        <record id="res_district_65" model="res.district">
+            <field name="name">อ.ปากช่อง</field>
+        </record>
+
+        <record id="res_district_864" model="res.district">
+            <field name="name">อ.สีดา</field>
+        </record>
+
+        <record id="res_district_116" model="res.district">
+            <field name="name">อ.โนนไทย</field>
+        </record>
+
+        <record id="res_district_527" model="res.district">
+            <field name="name">อ.โนนแดง</field>
+        </record>
+
+        <record id="res_district_752" model="res.district">
+            <field name="name">อ.บัวลาย</field>
+        </record>
+
+        <record id="res_district_216" model="res.district">
+            <field name="name">อ.ขามสะแกแสง</field>
+        </record>
+
+        <record id="res_district_209" model="res.district">
+            <field name="name">อ.ขามทะเลสอ</field>
+        </record>
+
+        <record id="res_district_464" model="res.district">
+            <field name="name">อ.บ้านเหลื่อม</field>
+        </record>
+
+        <record id="res_district_620" model="res.district">
+            <field name="name">อ.พระทองคำ</field>
+        </record>
+
+        <record id="res_district_243" model="res.district">
+            <field name="name">อ.เมืองจันทบุรี</field>
+        </record>
+
+        <record id="res_district_424" model="res.district">
+            <field name="name">อ.มะขาม</field>
+        </record>
+
+        <record id="res_district_42" model="res.district">
+            <field name="name">อ.นายายอาม</field>
+        </record>
+
+        <record id="res_district_284" model="res.district">
+            <field name="name">อ.เขาคิชฌกูฏ</field>
+        </record>
+
+        <record id="res_district_200" model="res.district">
+            <field name="name">อ.ขลุง</field>
+        </record>
+
+        <record id="res_district_256" model="res.district">
+            <field name="name">อ.ท่าใหม่</field>
+        </record>
+
+        <record id="res_district_226" model="res.district">
+            <field name="name">อ.แก่งหางแมว</field>
+        </record>
+
+        <record id="res_district_609" model="res.district">
+            <field name="name">อ.สอยดาว</field>
+        </record>
+
+        <record id="res_district_277" model="res.district">
+            <field name="name">อ.แหลมสิงห์</field>
+        </record>
+
+        <record id="res_district_311" model="res.district">
+            <field name="name">อ.โป่งน้ำร้อน</field>
+        </record>
+
+        <record id="res_district_257" model="res.district">
+            <field name="name">อ.บ้านโพธิ์</field>
+        </record>
+
+        <record id="res_district_263" model="res.district">
+            <field name="name">อ.เมืองฉะเชิงเทรา</field>
+        </record>
+
+        <record id="res_district_675" model="res.district">
+            <field name="name">อ.พนมสารคาม</field>
+        </record>
+
+        <record id="res_district_663" model="res.district">
+            <field name="name">อ.บางปะกง</field>
+        </record>
+
+        <record id="res_district_676" model="res.district">
+            <field name="name">อ.บางคล้า</field>
+        </record>
+
+        <record id="res_district_379" model="res.district">
+            <field name="name">อ.สนามชัยเขต</field>
+        </record>
+
+        <record id="res_district_487" model="res.district">
+            <field name="name">อ.ราชสาส์น</field>
+        </record>
+
+        <record id="res_district_190" model="res.district">
+            <field name="name">อ.คลองเขื่อน</field>
+        </record>
+
+        <record id="res_district_267" model="res.district">
+            <field name="name">อ.ท่าตะเกียบ</field>
+        </record>
+
+        <record id="res_district_514" model="res.district">
+            <field name="name">อ.บางน้ำเปรี้ยว</field>
+        </record>
+
+        <record id="res_district_860" model="res.district">
+            <field name="name">อ.แปลงยาว</field>
+        </record>
+
+        <record id="res_district_268" model="res.district">
+            <field name="name">อ.บ้านแพ้ว</field>
+        </record>
+
+        <record id="res_district_113" model="res.district">
+            <field name="name">อ.เมืองสมุทรสาคร</field>
+        </record>
+
+        <record id="res_district_288" model="res.district">
+            <field name="name">อ.กระทุ่มแบน</field>
+        </record>
+
+        <record id="res_district_280" model="res.district">
+            <field name="name">อ.รัษฎา</field>
+        </record>
+
+        <record id="res_district_647" model="res.district">
+            <field name="name">อ.ปะเหลียน</field>
+        </record>
+
+        <record id="res_district_93" model="res.district">
+            <field name="name">อ.สิเกา</field>
+        </record>
+
+        <record id="res_district_632" model="res.district">
+            <field name="name">อ.ห้วยยอด</field>
+        </record>
+
+        <record id="res_district_624" model="res.district">
+            <field name="name">อ.ย่านตาขาว</field>
+        </record>
+
+        <record id="res_district_102" model="res.district">
+            <field name="name">อ.กันตัง</field>
+        </record>
+
+        <record id="res_district_319" model="res.district">
+            <field name="name">อ.เมืองตรัง</field>
+        </record>
+
+        <record id="res_district_458" model="res.district">
+            <field name="name">อ.นาโยง</field>
+        </record>
+
+        <record id="res_district_574" model="res.district">
+            <field name="name">อ.หาดสำราญ</field>
+        </record>
+
+        <record id="res_district_691" model="res.district">
+            <field name="name">อ.วังวิเศษ</field>
+        </record>
+
+        <record id="res_district_287" model="res.district">
+            <field name="name">อ.ศรีนคร</field>
+        </record>
+
+        <record id="res_district_7" model="res.district">
+            <field name="name">อ.กงไกรลาศ</field>
+        </record>
+
+        <record id="res_district_269" model="res.district">
+            <field name="name">อ.ศรีสำโรง</field>
+        </record>
+
+        <record id="res_district_586" model="res.district">
+            <field name="name">อ.เมืองสุโขทัย</field>
+        </record>
+
+        <record id="res_district_247" model="res.district">
+            <field name="name">อ.สวรรคโลก</field>
+        </record>
+
+        <record id="res_district_565" model="res.district">
+            <field name="name">อ.บ้านด่านลานหอย</field>
+        </record>
+
+        <record id="res_district_485" model="res.district">
+            <field name="name">อ.ศรีสัชนาลัย</field>
+        </record>
+
+        <record id="res_district_64" model="res.district">
+            <field name="name">อ.ทุ่งเสลี่ยม</field>
+        </record>
+
+        <record id="res_district_646" model="res.district">
+            <field name="name">อ.คีรีมาศ</field>
+        </record>
+
+        <record id="res_district_432" model="res.district">
+            <field name="name">อ.พัฒนานิคม</field>
+        </record>
+
+        <record id="res_district_8" model="res.district">
+            <field name="name">อ.เมืองลพบุรี</field>
+        </record>
+
+        <record id="res_district_434" model="res.district">
+            <field name="name">อ.หนองม่วง</field>
+        </record>
+
+        <record id="res_district_472" model="res.district">
+            <field name="name">อ.ท่าหลวง</field>
+        </record>
+
+        <record id="res_district_433" model="res.district">
+            <field name="name">อ.บ้านหมี่</field>
+        </record>
+
+        <record id="res_district_300" model="res.district">
+            <field name="name">อ.โคกสำโรง</field>
+        </record>
+
+        <record id="res_district_148" model="res.district">
+            <field name="name">อ.ลำสนธิ</field>
+        </record>
+
+        <record id="res_district_848" model="res.district">
+            <field name="name">อ.โคกเจริญ</field>
+        </record>
+
+        <record id="res_district_636" model="res.district">
+            <field name="name">อ.สระโบสถ์</field>
+        </record>
+
+        <record id="res_district_444" model="res.district">
+            <field name="name">อ.ชัยบาดาล</field>
+        </record>
+
+        <record id="res_district_686" model="res.district">
+            <field name="name">อ.ท่าวุ้ง</field>
+        </record>
+
+        <record id="res_district_445" model="res.district">
+            <field name="name">อ.บ้านค่าย</field>
+        </record>
+
+        <record id="res_district_45" model="res.district">
+            <field name="name">อ.แกลง</field>
+        </record>
+
+        <record id="res_district_96" model="res.district">
+            <field name="name">อ.เมืองระยอง</field>
+        </record>
+
+        <record id="res_district_456" model="res.district">
+            <field name="name">อ.วังจันทร์</field>
+        </record>
+
+        <record id="res_district_745" model="res.district">
+            <field name="name">อ.นิคมพัฒนา</field>
+        </record>
+
+        <record id="res_district_587" model="res.district">
+            <field name="name">อ.ปลวกแดง</field>
+        </record>
+
+        <record id="res_district_448" model="res.district">
+            <field name="name">อ.เขาชะเมา</field>
+        </record>
+
+        <record id="res_district_784" model="res.district">
+            <field name="name">อ.บ้านฉาง</field>
+        </record>
+
+        <record id="res_district_461" model="res.district">
+            <field name="name">อ.เมืองกาญจนบุรี</field>
+        </record>
+
+        <record id="res_district_438" model="res.district">
+            <field name="name">อ.ทองผาภูมิ</field>
+        </record>
+
+        <record id="res_district_634" model="res.district">
+            <field name="name">อ.ท่าม่วง</field>
+        </record>
+
+        <record id="res_district_60" model="res.district">
+            <field name="name">อ.ด่านมะขามเตี้ย</field>
+        </record>
+
+        <record id="res_district_517" model="res.district">
+            <field name="name">อ.พนมทวน</field>
+        </record>
+
+        <record id="res_district_625" model="res.district">
+            <field name="name">อ.เลาขวัญ</field>
+        </record>
+
+        <record id="res_district_555" model="res.district">
+            <field name="name">อ.ศรีสวัสดิ์</field>
+        </record>
+
+        <record id="res_district_698" model="res.district">
+            <field name="name">อ.ไทรโยค</field>
+        </record>
+
+        <record id="res_district_510" model="res.district">
+            <field name="name">อ.ท่ามะกา</field>
+        </record>
+
+        <record id="res_district_862" model="res.district">
+            <field name="name">อ.หนองปรือ</field>
+        </record>
+
+        <record id="res_district_460" model="res.district">
+            <field name="name">อ.บ่อพลอย</field>
+        </record>
+
+        <record id="res_district_537" model="res.district">
+            <field name="name">อ.ห้วยกระเจา</field>
+        </record>
+
+        <record id="res_district_817" model="res.district">
+            <field name="name">อ.สังขละบุรี</field>
+        </record>
+
+        <record id="res_district_560" model="res.district">
+            <field name="name">อ.บ้านหมอ</field>
+        </record>
+
+        <record id="res_district_184" model="res.district">
+            <field name="name">อ.หนองแค</field>
+        </record>
+
+        <record id="res_district_151" model="res.district">
+            <field name="name">อ.เมืองสระบุรี</field>
+        </record>
+
+        <record id="res_district_387" model="res.district">
+            <field name="name">อ.เสาไห้</field>
+        </record>
+
+        <record id="res_district_436" model="res.district">
+            <field name="name">อ.แก่งคอย</field>
+        </record>
+
+        <record id="res_district_844" model="res.district">
+            <field name="name">อ.หนองแซง</field>
+        </record>
+
+        <record id="res_district_474" model="res.district">
+            <field name="name">อ.มวกเหล็ก</field>
+        </record>
+
+        <record id="res_district_521" model="res.district">
+            <field name="name">อ.หนองโดน</field>
+        </record>
+
+        <record id="res_district_236" model="res.district">
+            <field name="name">อ.พระพุทธบาท</field>
+        </record>
+
+        <record id="res_district_303" model="res.district">
+            <field name="name">อ.วิหารแดง</field>
+        </record>
+
+        <record id="res_district_346" model="res.district">
+            <field name="name">อ.วังม่วง</field>
+        </record>
+
+        <record id="res_district_486" model="res.district">
+            <field name="name">อ.ดอนพุด</field>
+        </record>
+
+        <record id="res_district_635" model="res.district">
+            <field name="name">อ.หนองบัว</field>
+        </record>
+
+        <record id="res_district_512" model="res.district">
+            <field name="name">อ.ท่าตะโก</field>
+        </record>
+
+        <record id="res_district_678" model="res.district">
+            <field name="name">อ.พยุหะคีรี</field>
+        </record>
+
+        <record id="res_district_381" model="res.district">
+            <field name="name">อ.ชุมแสง</field>
+        </record>
+
+        <record id="res_district_842" model="res.district">
+            <field name="name">อ.เก้าเลี้ยว</field>
+        </record>
+
+        <record id="res_district_68" model="res.district">
+            <field name="name">อ.เมืองนครสวรรค์</field>
+        </record>
+
+        <record id="res_district_551" model="res.district">
+            <field name="name">อ.บรรพตพิสัย</field>
+        </record>
+
+        <record id="res_district_812" model="res.district">
+            <field name="name">อ.ลาดยาว</field>
+        </record>
+
+        <record id="res_district_706" model="res.district">
+            <field name="name">อ.โกรกพระ</field>
+        </record>
+
+        <record id="res_district_413" model="res.district">
+            <field name="name">อ.ตาคลี</field>
+        </record>
+
+        <record id="res_district_452" model="res.district">
+            <field name="name">อ.ชุมตาบง</field>
+        </record>
+
+        <record id="res_district_570" model="res.district">
+            <field name="name">อ.ไพศาลี</field>
+        </record>
+
+        <record id="res_district_578" model="res.district">
+            <field name="name">อ.ตากฟ้า</field>
+        </record>
+
+        <record id="res_district_855" model="res.district">
+            <field name="name">อ.แม่วงก์</field>
+        </record>
+
+        <record id="res_district_873" model="res.district">
+            <field name="name">อ.แม่เปิน</field>
+        </record>
+
+        <record id="res_district_744" model="res.district">
+            <field name="name">อ.นิคมน้ำอูน</field>
+        </record>
+
+        <record id="res_district_3" model="res.district">
+            <field name="name">อ.ภูพาน</field>
+        </record>
+
+        <record id="res_district_349" model="res.district">
+            <field name="name">อ.สว่างแดนดิน</field>
+        </record>
+
+        <record id="res_district_173" model="res.district">
+            <field name="name">อ.วานรนิวาส</field>
+        </record>
+
+        <record id="res_district_658" model="res.district">
+            <field name="name">อ.เจริญศิลป์</field>
+        </record>
+
+        <record id="res_district_661" model="res.district">
+            <field name="name">อ.อากาศอำนวย</field>
+        </record>
+
+        <record id="res_district_198" model="res.district">
+            <field name="name">อ.เมืองสกลนคร</field>
+        </record>
+
+        <record id="res_district_411" model="res.district">
+            <field name="name">อ.เต่างอย</field>
+        </record>
+
+        <record id="res_district_183" model="res.district">
+            <field name="name">อ.กุสุมาลย์</field>
+        </record>
+
+        <record id="res_district_499" model="res.district">
+            <field name="name">อ.บ้านม่วง</field>
+        </record>
+
+        <record id="res_district_157" model="res.district">
+            <field name="name">อ.กุดบาก</field>
+        </record>
+
+        <record id="res_district_339" model="res.district">
+            <field name="name">อ.คำตากล้า</field>
+        </record>
+
+        <record id="res_district_343" model="res.district">
+            <field name="name">อ.วาริชภูมิ</field>
+        </record>
+
+        <record id="res_district_470" model="res.district">
+            <field name="name">อ.พรรณานิคม</field>
+        </record>
+
+        <record id="res_district_552" model="res.district">
+            <field name="name">อ.โคกศรีสุพรรณ</field>
+        </record>
+
+        <record id="res_district_719" model="res.district">
+            <field name="name">อ.โพนนาแก้ว</field>
+        </record>
+
+        <record id="res_district_597" model="res.district">
+            <field name="name">อ.พังโคน</field>
+        </record>
+
+        <record id="res_district_688" model="res.district">
+            <field name="name">อ.ส่องดาว</field>
+        </record>
+
+        <record id="res_district_778" model="res.district">
+            <field name="name">อ.วัดสิงห์</field>
+        </record>
+
+        <record id="res_district_372" model="res.district">
+            <field name="name">อ.มโนรมย์</field>
+        </record>
+
+        <record id="res_district_139" model="res.district">
+            <field name="name">อ.หนองมะโมง</field>
+        </record>
+
+        <record id="res_district_566" model="res.district">
+            <field name="name">อ.สรรพยา</field>
+        </record>
+
+        <record id="res_district_442" model="res.district">
+            <field name="name">อ.เมืองชัยนาท</field>
+        </record>
+
+        <record id="res_district_86" model="res.district">
+            <field name="name">อ.เนินขาม</field>
+        </record>
+
+        <record id="res_district_484" model="res.district">
+            <field name="name">อ.สรรคบุรี</field>
+        </record>
+
+        <record id="res_district_800" model="res.district">
+            <field name="name">อ.หันคา</field>
+        </record>
+
+        <record id="res_district_791" model="res.district">
+            <field name="name">อ.บ้านฝาง</field>
+        </record>
+
+        <record id="res_district_210" model="res.district">
+            <field name="name">อ.พระยืน</field>
+        </record>
+
+        <record id="res_district_515" model="res.district">
+            <field name="name">อ.เมืองขอนแก่น</field>
+        </record>
+
+        <record id="res_district_168" model="res.district">
+            <field name="name">อ.มัญจาคีรี</field>
+        </record>
+
+        <record id="res_district_795" model="res.district">
+            <field name="name">อ.บ้านไผ่</field>
+        </record>
+
+        <record id="res_district_870" model="res.district">
+            <field name="name">อ.เวียงเก่า</field>
+        </record>
+
+        <record id="res_district_725" model="res.district">
+            <field name="name">อ.ภูผาม่าน</field>
+        </record>
+
+        <record id="res_district_479" model="res.district">
+            <field name="name">อ.สีชมพู</field>
+        </record>
+
+        <record id="res_district_28" model="res.district">
+            <field name="name">อ.ซำสูง</field>
+        </record>
+
+        <record id="res_district_133" model="res.district">
+            <field name="name">อ.หนองเรือ</field>
+        </record>
+
+        <record id="res_district_366" model="res.district">
+            <field name="name">อ.หนองสองห้อง</field>
+        </record>
+
+        <record id="res_district_207" model="res.district">
+            <field name="name">อ.ชุมแพ</field>
+        </record>
+
+        <record id="res_district_548" model="res.district">
+            <field name="name">อ.กระนวน</field>
+        </record>
+
+        <record id="res_district_797" model="res.district">
+            <field name="name">อ.โนนศิลา</field>
+        </record>
+
+        <record id="res_district_347" model="res.district">
+            <field name="name">อ.เขาสวนกวาง</field>
+        </record>
+
+        <record id="res_district_807" model="res.district">
+            <field name="name">อ.บ้านแฮด</field>
+        </record>
+
+        <record id="res_district_154" model="res.district">
+            <field name="name">อ.น้ำพอง</field>
+        </record>
+
+        <record id="res_district_328" model="res.district">
+            <field name="name">อ.แวงใหญ่</field>
+        </record>
+
+        <record id="res_district_214" model="res.district">
+            <field name="name">อ.เปือยน้อย</field>
+        </record>
+
+        <record id="res_district_193" model="res.district">
+            <field name="name">อ.แวงน้อย</field>
+        </record>
+
+        <record id="res_district_659" model="res.district">
+            <field name="name">อ.อุบลรัตน์</field>
+        </record>
+
+        <record id="res_district_135" model="res.district">
+            <field name="name">อ.ภูเวียง</field>
+        </record>
+
+        <record id="res_district_475" model="res.district">
+            <field name="name">อ.โคกโพธิ์ไชย</field>
+        </record>
+
+        <record id="res_district_150" model="res.district">
+            <field name="name">อ.หนองนาคำ</field>
+        </record>
+
+        <record id="res_district_170" model="res.district">
+            <field name="name">อ.ชนบท</field>
+        </record>
+
+        <record id="res_district_851" model="res.district">
+            <field name="name">อ.พล</field>
+        </record>
+
+        <record id="res_district_813" model="res.district">
+            <field name="name">อ.ไชยปราการ</field>
+        </record>
+
+        <record id="res_district_466" model="res.district">
+            <field name="name">อ.เมืองเชียงใหม่</field>
+        </record>
+
+        <record id="res_district_128" model="res.district">
+            <field name="name">อ.แม่แตง</field>
+        </record>
+
+        <record id="res_district_222" model="res.district">
+            <field name="name">อ.แม่ริม</field>
+        </record>
+
+        <record id="res_district_80" model="res.district">
+            <field name="name">อ.แม่แจ่ม</field>
+        </record>
+
+        <record id="res_district_654" model="res.district">
+            <field name="name">อ.พร้าว</field>
+        </record>
+
+        <record id="res_district_206" model="res.district">
+            <field name="name">อ.สารภี</field>
+        </record>
+
+        <record id="res_district_558" model="res.district">
+            <field name="name">อ.ดอยสะเก็ด</field>
+        </record>
+
+        <record id="res_district_633" model="res.district">
+            <field name="name">อ.สันป่าตอง</field>
+        </record>
+
+        <record id="res_district_598" model="res.district">
+            <field name="name">อ.สันกำแพง</field>
+        </record>
+
+        <record id="res_district_827" model="res.district">
+            <field name="name">อ.สันทราย</field>
+        </record>
+
+        <record id="res_district_736" model="res.district">
+            <field name="name">อ.อมก๋อย</field>
+        </record>
+
+        <record id="res_district_846" model="res.district">
+            <field name="name">อ.ฝาง</field>
+        </record>
+
+        <record id="res_district_224" model="res.district">
+            <field name="name">อ.หางดง</field>
+        </record>
+
+        <record id="res_district_710" model="res.district">
+            <field name="name">อ.ฮอด</field>
+        </record>
+
+        <record id="res_district_238" model="res.district">
+            <field name="name">อ.จอมทอง</field>
+        </record>
+
+        <record id="res_district_671" model="res.district">
+            <field name="name">อ.แม่อาย</field>
+        </record>
+
+        <record id="res_district_535" model="res.district">
+            <field name="name">อ.แม่วาง</field>
+        </record>
+
+        <record id="res_district_777" model="res.district">
+            <field name="name">อ.สะเมิง</field>
+        </record>
+
+        <record id="res_district_623" model="res.district">
+            <field name="name">อ.แม่ออน</field>
+        </record>
+
+        <record id="res_district_541" model="res.district">
+            <field name="name">อ.ดอยหล่อ</field>
+        </record>
+
+        <record id="res_district_542" model="res.district">
+            <field name="name">อ.ดอยเต่า</field>
+        </record>
+
+        <record id="res_district_628" model="res.district">
+            <field name="name">อ.เชียงดาว</field>
+        </record>
+
+        <record id="res_district_781" model="res.district">
+            <field name="name">อ.กัลยาณิวัฒนา</field>
+        </record>
+
+        <record id="res_district_872" model="res.district">
+            <field name="name">อ.เวียงแหง</field>
+        </record>
+
+        <record id="res_district_718" model="res.district">
+            <field name="name">อ.เฝ้าไร่</field>
+        </record>
+
+        <record id="res_district_74" model="res.district">
+            <field name="name">อ.เมืองหนองคาย</field>
+        </record>
+
+        <record id="res_district_156" model="res.district">
+            <field name="name">อ.โพนพิสัย</field>
+        </record>
+
+        <record id="res_district_714" model="res.district">
+            <field name="name">อ.สังคม</field>
+        </record>
+
+        <record id="res_district_553" model="res.district">
+            <field name="name">อ.โพธิ์ตาก</field>
+        </record>
+
+        <record id="res_district_79" model="res.district">
+            <field name="name">อ.ท่าบ่อ</field>
+        </record>
+
+        <record id="res_district_326" model="res.district">
+            <field name="name">อ.สระใคร</field>
+        </record>
+
+        <record id="res_district_721" model="res.district">
+            <field name="name">อ.รัตนวาปี</field>
+        </record>
+
+        <record id="res_district_796" model="res.district">
+            <field name="name">อ.ศรีเชียงใหม่</field>
+        </record>
+
+        <record id="res_district_550" model="res.district">
+            <field name="name">อ.ด่านช้าง</field>
+        </record>
+
+        <record id="res_district_509" model="res.district">
+            <field name="name">อ.เมืองสุพรรณบุรี</field>
+        </record>
+
+        <record id="res_district_629" model="res.district">
+            <field name="name">อ.เดิมบางนางบวช</field>
+        </record>
+
+        <record id="res_district_522" model="res.district">
+            <field name="name">อ.ศรีประจันต์</field>
+        </record>
+
+        <record id="res_district_524" model="res.district">
+            <field name="name">อ.สองพี่น้อง</field>
+        </record>
+
+        <record id="res_district_18" model="res.district">
+            <field name="name">อ.อู่ทอง</field>
+        </record>
+
+        <record id="res_district_41" model="res.district">
+            <field name="name">อ.สามชุก</field>
+        </record>
+
+        <record id="res_district_58" model="res.district">
+            <field name="name">อ.บางปลาม้า</field>
+        </record>
+
+        <record id="res_district_533" model="res.district">
+            <field name="name">อ.ดอนเจดีย์</field>
+        </record>
+
+        <record id="res_district_621" model="res.district">
+            <field name="name">อ.หนองหญ้าไซ</field>
+        </record>
+
+        <record id="res_district_573" model="res.district">
+            <field name="name">อ.บางละมุง</field>
+        </record>
+
+        <record id="res_district_702" model="res.district">
+            <field name="name">อ.บ่อทอง</field>
+        </record>
+
+        <record id="res_district_758" model="res.district">
+            <field name="name">อ.พานทอง</field>
+        </record>
+
+        <record id="res_district_132" model="res.district">
+            <field name="name">อ.พนัสนิคม</field>
+        </record>
+
+        <record id="res_district_283" model="res.district">
+            <field name="name">อ.หนองใหญ่</field>
+        </record>
+
+        <record id="res_district_270" model="res.district">
+            <field name="name">อ.เมืองชลบุรี</field>
+        </record>
+
+        <record id="res_district_652" model="res.district">
+            <field name="name">อ.ศรีราชา</field>
+        </record>
+
+        <record id="res_district_251" model="res.district">
+            <field name="name">อ.บ้านบึง</field>
+        </record>
+
+        <record id="res_district_679" model="res.district">
+            <field name="name">อ.เกาะจันทร์</field>
+        </record>
+
+        <record id="res_district_694" model="res.district">
+            <field name="name">อ.เกาะสีชัง</field>
+        </record>
+
+        <record id="res_district_715" model="res.district">
+            <field name="name">อ.สัตหีบ</field>
+        </record>
+
+        <record id="res_district_5" model="res.district">
+            <field name="name">อ.บางไทร</field>
+        </record>
+
+        <record id="res_district_199" model="res.district">
+            <field name="name">อ.บางปะหัน</field>
+        </record>
+
+        <record id="res_district_89" model="res.district">
+            <field name="name">อ.พระนครศรีอยุธยา</field>
+        </record>
+
+        <record id="res_district_195" model="res.district">
+            <field name="name">อ.บางปะอิน</field>
+        </record>
+
+        <record id="res_district_131" model="res.district">
+            <field name="name">อ.ผักไห่</field>
+        </record>
+
+        <record id="res_district_84" model="res.district">
+            <field name="name">อ.มหาราช</field>
+        </record>
+
+        <record id="res_district_13" model="res.district">
+            <field name="name">อ.บางบาล</field>
+        </record>
+
+        <record id="res_district_20" model="res.district">
+            <field name="name">อ.ภาชี</field>
+        </record>
+
+        <record id="res_district_416" model="res.district">
+            <field name="name">อ.ท่าเรือ</field>
+        </record>
+
+        <record id="res_district_276" model="res.district">
+            <field name="name">อ.บ้านแพรก</field>
+        </record>
+
+        <record id="res_district_294" model="res.district">
+            <field name="name">อ.นครหลวง</field>
+        </record>
+
+        <record id="res_district_447" model="res.district">
+            <field name="name">อ.เสนา</field>
+        </record>
+
+        <record id="res_district_241" model="res.district">
+            <field name="name">อ.อุทัย</field>
+        </record>
+
+        <record id="res_district_240" model="res.district">
+            <field name="name">อ.วังน้อย</field>
+        </record>
+
+        <record id="res_district_281" model="res.district">
+            <field name="name">อ.ลาดบัวหลวง</field>
+        </record>
+
+        <record id="res_district_757" model="res.district">
+            <field name="name">อ.บางซ้าย</field>
+        </record>
+
+        <record id="res_district_44" model="res.district">
+            <field name="name">อ.สามโคก</field>
+        </record>
+
+        <record id="res_district_282" model="res.district">
+            <field name="name">อ.ลาดหลุมแก้ว</field>
+        </record>
+
+        <record id="res_district_754" model="res.district">
+            <field name="name">อ.เมืองปทุมธานี</field>
+        </record>
+
+        <record id="res_district_704" model="res.district">
+            <field name="name">อ.หนองเสือ</field>
+        </record>
+
+        <record id="res_district_373" model="res.district">
+            <field name="name">อ.ลำลูกกา</field>
+        </record>
+
+        <record id="res_district_293" model="res.district">
+            <field name="name">อ.คลองหลวง</field>
+        </record>
+
+        <record id="res_district_768" model="res.district">
+            <field name="name">อ.ธัญบุรี</field>
+        </record>
+
+        <record id="res_district_228" model="res.district">
+            <field name="name">อ.เมืองสุราษฎร์ธานี</field>
+        </record>
+
+        <record id="res_district_606" model="res.district">
+            <field name="name">อ.บ้านนาเดิม</field>
+        </record>
+
+        <record id="res_district_56" model="res.district">
+            <field name="name">อ.พุนพิน</field>
+        </record>
+
+        <record id="res_district_98" model="res.district">
+            <field name="name">อ.คีรีรัฐนิคม</field>
+        </record>
+
+        <record id="res_district_55" model="res.district">
+            <field name="name">อ.กาญจนดิษฐ์</field>
+        </record>
+
+        <record id="res_district_803" model="res.district">
+            <field name="name">อ.เคียนซา</field>
+        </record>
+
+        <record id="res_district_431" model="res.district">
+            <field name="name">อ.ดอนสัก</field>
+        </record>
+
+        <record id="res_district_264" model="res.district">
+            <field name="name">อ.เวียงสระ</field>
+        </record>
+
+        <record id="res_district_275" model="res.district">
+            <field name="name">อ.ชัยบุรี</field>
+        </record>
+
+        <record id="res_district_837" model="res.district">
+            <field name="name">อ.บ้านตาขุน</field>
+        </record>
+
+        <record id="res_district_563" model="res.district">
+            <field name="name">อ.เกาะสมุย</field>
+        </record>
+
+        <record id="res_district_562" model="res.district">
+            <field name="name">อ.ไชยา</field>
+        </record>
+
+        <record id="res_district_265" model="res.district">
+            <field name="name">อ.พนม</field>
+        </record>
+
+        <record id="res_district_279" model="res.district">
+            <field name="name">อ.บ้านนาสาร</field>
+        </record>
+
+        <record id="res_district_285" model="res.district">
+            <field name="name">อ.ท่าชนะ</field>
+        </record>
+
+        <record id="res_district_312" model="res.district">
+            <field name="name">อ.ท่าฉาง</field>
+        </record>
+
+        <record id="res_district_810" model="res.district">
+            <field name="name">อ.เกาะพะงัน</field>
+        </record>
+
+        <record id="res_district_569" model="res.district">
+            <field name="name">อ.วิภาวดี</field>
+        </record>
+
+        <record id="res_district_765" model="res.district">
+            <field name="name">อ.พระแสง</field>
+        </record>
+
+        <record id="res_district_365" model="res.district">
+            <field name="name">อ.ตะกั่วป่า</field>
+        </record>
+
+        <record id="res_district_580" model="res.district">
+            <field name="name">อ.เมืองพังงา</field>
+        </record>
+
+        <record id="res_district_51" model="res.district">
+            <field name="name">อ.ตะกั่วทุ่ง</field>
+        </record>
+
+        <record id="res_district_87" model="res.district">
+            <field name="name">อ.กะปง</field>
+        </record>
+
+        <record id="res_district_603" model="res.district">
+            <field name="name">อ.ทับปุด</field>
+        </record>
+
+        <record id="res_district_369" model="res.district">
+            <field name="name">อ.คุระบุรี</field>
+        </record>
+
+        <record id="res_district_645" model="res.district">
+            <field name="name">อ.ท้ายเหมือง</field>
+        </record>
+
+        <record id="res_district_836" model="res.district">
+            <field name="name">อ.เกาะยาว</field>
+        </record>
+
+        <record id="res_district_230" model="res.district">
+            <field name="name">อ.เมืองอุตรดิตถ์</field>
+        </record>
+
+        <record id="res_district_748" model="res.district">
+            <field name="name">อ.ทองแสนขัน</field>
+        </record>
+
+        <record id="res_district_441" model="res.district">
+            <field name="name">อ.ลับแล</field>
+        </record>
+
+        <record id="res_district_332" model="res.district">
+            <field name="name">อ.พิชัย</field>
+        </record>
+
+        <record id="res_district_804" model="res.district">
+            <field name="name">อ.ฟากท่า</field>
+        </record>
+
+        <record id="res_district_239" model="res.district">
+            <field name="name">อ.ตรอน</field>
+        </record>
+
+        <record id="res_district_709" model="res.district">
+            <field name="name">อ.บ้านโคก</field>
+        </record>
+
+        <record id="res_district_750" model="res.district">
+            <field name="name">อ.น้ำปาด</field>
+        </record>
+
+        <record id="res_district_391" model="res.district">
+            <field name="name">อ.ท่าปลา</field>
+        </record>
+
+        <record id="res_district_613" model="res.district">
+            <field name="name">อ.พรหมคีรี</field>
+        </record>
+
+        <record id="res_district_71" model="res.district">
+            <field name="name">อ.ท่าศาลา</field>
+        </record>
+
+        <record id="res_district_124" model="res.district">
+            <field name="name">อ.เมืองนครศรีธรรมราช</field>
+        </record>
+
+        <record id="res_district_197" model="res.district">
+            <field name="name">อ.ปากพนัง</field>
+        </record>
+
+        <record id="res_district_54" model="res.district">
+            <field name="name">อ.ทุ่งใหญ่</field>
+        </record>
+
+        <record id="res_district_53" model="res.district">
+            <field name="name">อ.นบพิตำ</field>
+        </record>
+
+        <record id="res_district_467" model="res.district">
+            <field name="name">อ.พระพรหม</field>
+        </record>
+
+        <record id="res_district_85" model="res.district">
+            <field name="name">อ.พิปูน</field>
+        </record>
+
+        <record id="res_district_88" model="res.district">
+            <field name="name">อ.ทุ่งสง</field>
+        </record>
+
+        <record id="res_district_425" model="res.district">
+            <field name="name">อ.สิชล</field>
+        </record>
+
+        <record id="res_district_99" model="res.district">
+            <field name="name">อ.ฉวาง</field>
+        </record>
+
+        <record id="res_district_109" model="res.district">
+            <field name="name">อ.เชียรใหญ่</field>
+        </record>
+
+        <record id="res_district_127" model="res.district">
+            <field name="name">อ.ลานสกา</field>
+        </record>
+
+        <record id="res_district_196" model="res.district">
+            <field name="name">อ.ขนอม</field>
+        </record>
+
+        <record id="res_district_318" model="res.district">
+            <field name="name">อ.ร่อนพิบูลย์</field>
+        </record>
+
+        <record id="res_district_202" model="res.district">
+            <field name="name">อ.ชะอวด</field>
+        </record>
+
+        <record id="res_district_322" model="res.district">
+            <field name="name">อ.จุฬาภรณ์</field>
+        </record>
+
+        <record id="res_district_317" model="res.district">
+            <field name="name">อ.หัวไทร</field>
+        </record>
+
+        <record id="res_district_304" model="res.district">
+            <field name="name">อ.ถ้ำพรรณรา</field>
+        </record>
+
+        <record id="res_district_755" model="res.district">
+            <field name="name">อ.บางขัน</field>
+        </record>
+
+        <record id="res_district_465" model="res.district">
+            <field name="name">อ.ช้างกลาง</field>
+        </record>
+
+        <record id="res_district_650" model="res.district">
+            <field name="name">อ.นาบอน</field>
+        </record>
+
+        <record id="res_district_759" model="res.district">
+            <field name="name">อ.พรหมบุรี</field>
+        </record>
+
+        <record id="res_district_388" model="res.district">
+            <field name="name">อ.อินทร์บุรี</field>
+        </record>
+
+        <record id="res_district_407" model="res.district">
+            <field name="name">อ.เมืองสิงห์บุรี</field>
+        </record>
+
+        <record id="res_district_327" model="res.district">
+            <field name="name">อ.ค่ายบางระจัน</field>
+        </record>
+
+        <record id="res_district_783" model="res.district">
+            <field name="name">อ.บางระจัน</field>
+        </record>
+
+        <record id="res_district_601" model="res.district">
+            <field name="name">อ.ท่าช้าง</field>
+        </record>
+
+        <record id="res_district_23" model="res.district">
+            <field name="name">อ.สทิงพระ</field>
+        </record>
+
+        <record id="res_district_227" model="res.district">
+            <field name="name">อ.จะนะ</field>
+        </record>
+
+        <record id="res_district_296" model="res.district">
+            <field name="name">อ.คลองหอยโข่ง</field>
+        </record>
+
+        <record id="res_district_299" model="res.district">
+            <field name="name">อ.หาดใหญ่</field>
+        </record>
+
+        <record id="res_district_305" model="res.district">
+            <field name="name">อ.ระโนด</field>
+        </record>
+
+        <record id="res_district_683" model="res.district">
+            <field name="name">อ.เทพา</field>
+        </record>
+
+        <record id="res_district_46" model="res.district">
+            <field name="name">อ.กระแสสินธุ์</field>
+        </record>
+
+        <record id="res_district_653" model="res.district">
+            <field name="name">อ.สะเดา</field>
+        </record>
+
+        <record id="res_district_125" model="res.district">
+            <field name="name">อ.รัตภูมิ</field>
+        </record>
+
+        <record id="res_district_250" model="res.district">
+            <field name="name">อ.นาทวี</field>
+        </record>
+
+        <record id="res_district_376" model="res.district">
+            <field name="name">อ.สะบ้าย้อย</field>
+        </record>
+
+        <record id="res_district_668" model="res.district">
+            <field name="name">อ.บางกล่ำ</field>
+        </record>
+
+        <record id="res_district_295" model="res.district">
+            <field name="name">อ.นาหม่อม</field>
+        </record>
+
+        <record id="res_district_324" model="res.district">
+            <field name="name">อ.ควนเนียง</field>
+        </record>
+
+        <record id="res_district_439" model="res.district">
+            <field name="name">อ.สิงหนคร</field>
+        </record>
+
+        <record id="res_district_655" model="res.district">
+            <field name="name">อ.เมืองสงขลา</field>
+        </record>
+
+        <record id="res_district_459" model="res.district">
+            <field name="name">อ.วัฒนานคร</field>
+        </record>
+
+        <record id="res_district_866" model="res.district">
+            <field name="name">อ.โคกสูง</field>
+        </record>
+
+        <record id="res_district_272" model="res.district">
+            <field name="name">อ.อรัญประเทศ</field>
+        </record>
+
+        <record id="res_district_858" model="res.district">
+            <field name="name">อ.วังสมบูรณ์</field>
+        </record>
+
+        <record id="res_district_298" model="res.district">
+            <field name="name">อ.วังน้ำเย็น</field>
+        </record>
+
+        <record id="res_district_693" model="res.district">
+            <field name="name">อ.เมืองสระแก้ว</field>
+        </record>
+
+        <record id="res_district_834" model="res.district">
+            <field name="name">อ.เขาฉกรรจ์</field>
+        </record>
+
+        <record id="res_district_297" model="res.district">
+            <field name="name">อ.คลองหาด</field>
+        </record>
+
+        <record id="res_district_585" model="res.district">
+            <field name="name">อ.ตาพระยา</field>
+        </record>
+
+        <record id="res_district_713" model="res.district">
+            <field name="name">อ.บ้านแพง</field>
+        </record>
+
+        <record id="res_district_179" model="res.district">
+            <field name="name">อ.ปลาปาก</field>
+        </record>
+
+        <record id="res_district_182" model="res.district">
+            <field name="name">อ.เมืองนครพนม</field>
+        </record>
+
+        <record id="res_district_192" model="res.district">
+            <field name="name">อ.นาแก</field>
+        </record>
+
+        <record id="res_district_684" model="res.district">
+            <field name="name">อ.เรณูนคร</field>
+        </record>
+
+        <record id="res_district_708" model="res.district">
+            <field name="name">อ.โพนสวรรค์</field>
+        </record>
+
+        <record id="res_district_680" model="res.district">
+            <field name="name">อ.ศรีสงคราม</field>
+        </record>
+
+        <record id="res_district_696" model="res.district">
+            <field name="name">อ.นาหว้า</field>
+        </record>
+
+        <record id="res_district_143" model="res.district">
+            <field name="name">อ.ธาตุพนม</field>
+        </record>
+
+        <record id="res_district_667" model="res.district">
+            <field name="name">อ.ท่าอุเทน</field>
+        </record>
+
+        <record id="res_district_847" model="res.district">
+            <field name="name">อ.วังยาง</field>
+        </record>
+
+        <record id="res_district_534" model="res.district">
+            <field name="name">อ.นาทม</field>
+        </record>
+
+        <record id="res_district_814" model="res.district">
+            <field name="name">อ.ดอยหลวง</field>
+        </record>
+
+        <record id="res_district_599" model="res.district">
+            <field name="name">อ.ขุนตาล</field>
+        </record>
+
+        <record id="res_district_385" model="res.district">
+            <field name="name">อ.เทิง</field>
+        </record>
+
+        <record id="res_district_664" model="res.district">
+            <field name="name">อ.เวียงแก่น</field>
+        </record>
+
+        <record id="res_district_528" model="res.district">
+            <field name="name">อ.เวียงชัย</field>
+        </record>
+
+        <record id="res_district_808" model="res.district">
+            <field name="name">อ.เวียงป่าเป้า</field>
+        </record>
+
+        <record id="res_district_539" model="res.district">
+            <field name="name">อ.พาน</field>
+        </record>
+
+        <record id="res_district_826" model="res.district">
+            <field name="name">อ.ป่าแดด</field>
+        </record>
+
+        <record id="res_district_401" model="res.district">
+            <field name="name">อ.แม่จัน</field>
+        </record>
+
+        <record id="res_district_540" model="res.district">
+            <field name="name">อ.เมืองเชียงราย</field>
+        </record>
+
+        <record id="res_district_246" model="res.district">
+            <field name="name">อ.เชียงของ</field>
+        </record>
+
+        <record id="res_district_806" model="res.district">
+            <field name="name">อ.เชียงแสน</field>
+        </record>
+
+        <record id="res_district_494" model="res.district">
+            <field name="name">อ.เวียงเชียงรุ้ง</field>
+        </record>
+
+        <record id="res_district_402" model="res.district">
+            <field name="name">อ.แม่ลาว</field>
+        </record>
+
+        <record id="res_district_584" model="res.district">
+            <field name="name">อ.พญาเม็งราย</field>
+        </record>
+
+        <record id="res_district_662" model="res.district">
+            <field name="name">อ.แม่สรวย</field>
+        </record>
+
+        <record id="res_district_871" model="res.district">
+            <field name="name">อ.แม่ฟ้าหลวง</field>
+        </record>
+
+        <record id="res_district_787" model="res.district">
+            <field name="name">อ.แม่สาย</field>
+        </record>
+
+        <record id="res_district_386" model="res.district">
+            <field name="name">อ.เมืองพิษณุโลก</field>
+        </record>
+
+        <record id="res_district_368" model="res.district">
+            <field name="name">อ.บางระกำ</field>
+        </record>
+
+        <record id="res_district_673" model="res.district">
+            <field name="name">อ.บางกระทุ่ม</field>
+        </record>
+
+        <record id="res_district_335" model="res.district">
+            <field name="name">อ.วัดโบสถ์</field>
+        </record>
+
+        <record id="res_district_428" model="res.district">
+            <field name="name">อ.เนินมะปราง</field>
+        </record>
+
+        <record id="res_district_443" model="res.district">
+            <field name="name">อ.วังทอง</field>
+        </record>
+
+        <record id="res_district_490" model="res.district">
+            <field name="name">อ.พรหมพิราม</field>
+        </record>
+
+        <record id="res_district_446" model="res.district">
+            <field name="name">อ.ชาติตระการ</field>
+        </record>
+
+        <record id="res_district_703" model="res.district">
+            <field name="name">อ.นครไทย</field>
+        </record>
+
+        <record id="res_district_529" model="res.district">
+            <field name="name">อ.พรเจริญ</field>
+        </record>
+
+        <record id="res_district_340" model="res.district">
+            <field name="name">อ.เมืองบึงกาฬ</field>
+        </record>
+
+        <record id="res_district_775" model="res.district">
+            <field name="name">อ.บุ่งคล้า</field>
+        </record>
+
+        <record id="res_district_488" model="res.district">
+            <field name="name">อ.บึงโขงหลง</field>
+        </record>
+
+        <record id="res_district_478" model="res.district">
+            <field name="name">อ.เซกา</field>
+        </record>
+
+        <record id="res_district_356" model="res.district">
+            <field name="name">อ.โซ่พิสัย</field>
+        </record>
+
+        <record id="res_district_455" model="res.district">
+            <field name="name">อ.ศรีวิไล</field>
+        </record>
+
+        <record id="res_district_707" model="res.district">
+            <field name="name">อ.ปากคาด</field>
+        </record>
+
+        <record id="res_district_805" model="res.district">
+            <field name="name">อ.แม่ใจ</field>
+        </record>
+
+        <record id="res_district_419" model="res.district">
+            <field name="name">อ.เมืองพะเยา</field>
+        </record>
+
+        <record id="res_district_225" model="res.district">
+            <field name="name">อ.ปง</field>
+        </record>
+
+        <record id="res_district_641" model="res.district">
+            <field name="name">อ.เชียงคำ</field>
+        </record>
+
+        <record id="res_district_367" model="res.district">
+            <field name="name">อ.ดอกคำใต้</field>
+        </record>
+
+        <record id="res_district_423" model="res.district">
+            <field name="name">อ.จุน</field>
+        </record>
+
+        <record id="res_district_501" model="res.district">
+            <field name="name">อ.ภูกามยาว</field>
+        </record>
+
+        <record id="res_district_626" model="res.district">
+            <field name="name">อ.ภูซาง</field>
+        </record>
+
+        <record id="res_district_794" model="res.district">
+            <field name="name">อ.เชียงม่วน</field>
+        </record>
+
+        <record id="res_district_234" model="res.district">
+            <field name="name">อ.นครชัยศรี</field>
+        </record>
+
+        <record id="res_district_274" model="res.district">
+            <field name="name">อ.บางเลน</field>
+        </record>
+
+        <record id="res_district_24" model="res.district">
+            <field name="name">อ.กำแพงแสน</field>
+        </record>
+
+        <record id="res_district_26" model="res.district">
+            <field name="name">อ.สามพราน</field>
+        </record>
+
+        <record id="res_district_526" model="res.district">
+            <field name="name">อ.เมืองนครปฐม</field>
+        </record>
+
+        <record id="res_district_523" model="res.district">
+            <field name="name">อ.ดอนตูม</field>
+        </record>
+
+        <record id="res_district_306" model="res.district">
+            <field name="name">อ.พุทธมณฑล</field>
+        </record>
+
+        <record id="res_district_262" model="res.district">
+            <field name="name">อ.ตะพานหิน</field>
+        </record>
+
+        <record id="res_district_769" model="res.district">
+            <field name="name">อ.วชิรบารมี</field>
+        </record>
+
+        <record id="res_district_261" model="res.district">
+            <field name="name">อ.เมืองพิจิตร</field>
+        </record>
+
+        <record id="res_district_504" model="res.district">
+            <field name="name">อ.โพธิ์ประทับช้าง</field>
+        </record>
+
+        <record id="res_district_271" model="res.district">
+            <field name="name">อ.สากเหล็ก</field>
+        </record>
+
+        <record id="res_district_123" model="res.district">
+            <field name="name">อ.สามง่าม</field>
+        </record>
+
+        <record id="res_district_857" model="res.district">
+            <field name="name">อ.วังทรายพูน</field>
+        </record>
+
+        <record id="res_district_614" model="res.district">
+            <field name="name">อ.โพทะเล</field>
+        </record>
+
+        <record id="res_district_762" model="res.district">
+            <field name="name">อ.บางมูลนาก</field>
+        </record>
+
+        <record id="res_district_764" model="res.district">
+            <field name="name">อ.บึงนาราง</field>
+        </record>
+
+        <record id="res_district_616" model="res.district">
+            <field name="name">อ.ทับคล้อ</field>
+        </record>
+
+        <record id="res_district_854" model="res.district">
+            <field name="name">อ.ดงเจริญ</field>
+        </record>
+
+        <record id="res_district_244" model="res.district">
+            <field name="name">อ.สวี</field>
+        </record>
+
+        <record id="res_district_463" model="res.district">
+            <field name="name">อ.ทุ่งตะโก</field>
+        </record>
+
+        <record id="res_district_223" model="res.district">
+            <field name="name">อ.เมืองชุมพร</field>
+        </record>
+
+        <record id="res_district_370" model="res.district">
+            <field name="name">อ.ท่าแซะ</field>
+        </record>
+
+        <record id="res_district_205" model="res.district">
+            <field name="name">อ.หลังสวน</field>
+        </record>
+
+        <record id="res_district_630" model="res.district">
+            <field name="name">อ.ละแม</field>
+        </record>
+
+        <record id="res_district_457" model="res.district">
+            <field name="name">อ.ปะทิว</field>
+        </record>
+
+        <record id="res_district_820" model="res.district">
+            <field name="name">อ.พะโต๊ะ</field>
+        </record>
+
+        <record id="res_district_320" model="res.district">
+            <field name="name">อ.เมืองพัทลุง</field>
+        </record>
+
+        <record id="res_district_11" model="res.district">
+            <field name="name">อ.กงหรา</field>
+        </record>
+
+        <record id="res_district_453" model="res.district">
+            <field name="name">อ.ศรีนครินทร์</field>
+        </record>
+
+        <record id="res_district_316" model="res.district">
+            <field name="name">อ.เขาชัยสน</field>
+        </record>
+
+        <record id="res_district_639" model="res.district">
+            <field name="name">อ.ป่าบอน</field>
+        </record>
+
+        <record id="res_district_792" model="res.district">
+            <field name="name">อ.ป่าพะยอม</field>
+        </record>
+
+        <record id="res_district_315" model="res.district">
+            <field name="name">อ.ควนขนุน</field>
+        </record>
+
+        <record id="res_district_519" model="res.district">
+            <field name="name">อ.ปากพะยูน</field>
+        </record>
+
+        <record id="res_district_308" model="res.district">
+            <field name="name">อ.ตะโหมด</field>
+        </record>
+
+        <record id="res_district_575" model="res.district">
+            <field name="name">อ.ศรีบรรพต</field>
+        </record>
+
+        <record id="res_district_682" model="res.district">
+            <field name="name">อ.บางแก้ว</field>
+        </record>
+
+        <record id="res_district_840" model="res.district">
+            <field name="name">อ.สุคิริน</field>
+        </record>
+
+        <record id="res_district_404" model="res.district">
+            <field name="name">อ.ยี่งอ</field>
+        </record>
+
+        <record id="res_district_94" model="res.district">
+            <field name="name">อ.เมืองนราธิวาส</field>
+        </record>
+
+        <record id="res_district_108" model="res.district">
+            <field name="name">อ.แว้ง</field>
+        </record>
+
+        <record id="res_district_110" model="res.district">
+            <field name="name">อ.ระแงะ</field>
+        </record>
+
+        <record id="res_district_111" model="res.district">
+            <field name="name">อ.สุไหงปาดี</field>
+        </record>
+
+        <record id="res_district_112" model="res.district">
+            <field name="name">อ.ศรีสาคร</field>
+        </record>
+
+        <record id="res_district_115" model="res.district">
+            <field name="name">อ.บาเจาะ</field>
+        </record>
+
+        <record id="res_district_767" model="res.district">
+            <field name="name">อ.รือเสาะ</field>
+        </record>
+
+        <record id="res_district_394" model="res.district">
+            <field name="name">อ.เจาะไอร้อง</field>
+        </record>
+
+        <record id="res_district_406" model="res.district">
+            <field name="name">อ.จะแนะ</field>
+        </record>
+
+        <record id="res_district_723" model="res.district">
+            <field name="name">อ.ตากใบ</field>
+        </record>
+
+        <record id="res_district_823" model="res.district">
+            <field name="name">อ.สุไหงโกลก</field>
+        </record>
+
+        <record id="res_district_333" model="res.district">
+            <field name="name">อ.หนองจิก</field>
+        </record>
+
+        <record id="res_district_47" model="res.district">
+            <field name="name">อ.ยะรัง</field>
+        </record>
+
+        <record id="res_district_313" model="res.district">
+            <field name="name">อ.ปะนาเระ</field>
+        </record>
+
+        <record id="res_district_33" model="res.district">
+            <field name="name">อ.มายอ</field>
+        </record>
+
+        <record id="res_district_83" model="res.district">
+            <field name="name">อ.สายบุรี</field>
+        </record>
+
+        <record id="res_district_90" model="res.district">
+            <field name="name">อ.เมืองปัตตานี</field>
+        </record>
+
+        <record id="res_district_92" model="res.district">
+            <field name="name">อ.กะพ้อ</field>
+        </record>
+
+        <record id="res_district_323" model="res.district">
+            <field name="name">อ.โคกโพธิ์</field>
+        </record>
+
+        <record id="res_district_828" model="res.district">
+            <field name="name">อ.แม่ลาน</field>
+        </record>
+
+        <record id="res_district_520" model="res.district">
+            <field name="name">อ.ไม้แก่น</field>
+        </record>
+
+        <record id="res_district_405" model="res.district">
+            <field name="name">อ.ยะหริ่ง</field>
+        </record>
+
+        <record id="res_district_576" model="res.district">
+            <field name="name">อ.ทุ่งยางแดง</field>
+        </record>
+
+        <record id="res_district_97" model="res.district">
+            <field name="name">อ.กะเปอร์</field>
+        </record>
+
+        <record id="res_district_610" model="res.district">
+            <field name="name">อ.เมืองระนอง</field>
+        </record>
+
+        <record id="res_district_389" model="res.district">
+            <field name="name">อ.กระบุรี</field>
+        </record>
+
+        <record id="res_district_117" model="res.district">
+            <field name="name">อ.สุขสำราญ</field>
+        </record>
+
+        <record id="res_district_761" model="res.district">
+            <field name="name">อ.ละอุ่น</field>
+        </record>
+
+        <record id="res_district_611" model="res.district">
+            <field name="name">อ.บ้านนา</field>
+        </record>
+
+        <record id="res_district_309" model="res.district">
+            <field name="name">อ.องครักษ์</field>
+        </record>
+
+        <record id="res_district_498" model="res.district">
+            <field name="name">อ.เมืองนครนายก</field>
+        </record>
+
+        <record id="res_district_697" model="res.district">
+            <field name="name">อ.ปากพลี</field>
+        </record>
+
+        <record id="res_district_789" model="res.district">
+            <field name="name">อ.สามเงา</field>
+        </record>
+
+        <record id="res_district_567" model="res.district">
+            <field name="name">อ.เมืองตาก</field>
+        </record>
+
+        <record id="res_district_867" model="res.district">
+            <field name="name">อ.อุ้มผาง</field>
+        </record>
+
+        <record id="res_district_204" model="res.district">
+            <field name="name">อ.แม่ระมาด</field>
+        </record>
+
+        <record id="res_district_362" model="res.district">
+            <field name="name">อ.พบพระ</field>
+        </record>
+
+        <record id="res_district_554" model="res.district">
+            <field name="name">อ.แม่สอด</field>
+        </record>
+
+        <record id="res_district_577" model="res.district">
+            <field name="name">อ.บ้านตาก</field>
+        </record>
+
+        <record id="res_district_690" model="res.district">
+            <field name="name">อ.ท่าสองยาง</field>
+        </record>
+
+        <record id="res_district_741" model="res.district">
+            <field name="name">อ.วังเจ้า</field>
+        </record>
+
+        <record id="res_district_637" model="res.district">
+            <field name="name">อ.เขาสมิง</field>
+        </record>
+
+        <record id="res_district_450" model="res.district">
+            <field name="name">อ.เมืองตราด</field>
+        </record>
+
+        <record id="res_district_307" model="res.district">
+            <field name="name">อ.คลองใหญ่</field>
+        </record>
+
+        <record id="res_district_310" model="res.district">
+            <field name="name">อ.แหลมงอบ</field>
+        </record>
+
+        <record id="res_district_469" model="res.district">
+            <field name="name">อ.บ่อไร่</field>
+        </record>
+
+        <record id="res_district_868" model="res.district">
+            <field name="name">อ.เกาะกูด</field>
+        </record>
+
+        <record id="res_district_869" model="res.district">
+            <field name="name">อ.เกาะช้าง</field>
+        </record>
+
+        <record id="res_district_249" model="res.district">
+            <field name="name">อ.เมืองเพชรบุรี</field>
+        </record>
+
+        <record id="res_district_61" model="res.district">
+            <field name="name">อ.ท่ายาง</field>
+        </record>
+
+        <record id="res_district_699" model="res.district">
+            <field name="name">อ.บ้านแหลม</field>
+        </record>
+
+        <record id="res_district_437" model="res.district">
+            <field name="name">อ.ชะอำ</field>
+        </record>
+
+        <record id="res_district_617" model="res.district">
+            <field name="name">อ.เขาย้อย</field>
+        </record>
+
+        <record id="res_district_593" model="res.district">
+            <field name="name">อ.บ้านลาด</field>
+        </record>
+
+        <record id="res_district_825" model="res.district">
+            <field name="name">อ.แก่งกระจาน</field>
+        </record>
+
+        <record id="res_district_672" model="res.district">
+            <field name="name">อ.หนองหญ้าปล้อง</field>
+        </record>
+
+        <record id="res_district_233" model="res.district">
+            <field name="name">อ.ไทรน้อย</field>
+        </record>
+
+        <record id="res_district_259" model="res.district">
+            <field name="name">อ.ปากเกร็ด</field>
+        </record>
+
+        <record id="res_district_763" model="res.district">
+            <field name="name">อ.บางใหญ่</field>
+        </record>
+
+        <record id="res_district_756" model="res.district">
+            <field name="name">อ.บางบัวทอง</field>
+        </record>
+
+        <record id="res_district_559" model="res.district">
+            <field name="name">อ.เมืองนนทบุรี</field>
+        </record>
+
+        <record id="res_district_753" model="res.district">
+            <field name="name">อ.บางกรวย</field>
+        </record>
+
+        <record id="res_district_14" model="res.district">
+            <field name="name">อ.กะทู้</field>
+        </record>
+
+        <record id="res_district_91" model="res.district">
+            <field name="name">อ.เมืองภูเก็ต</field>
+        </record>
+
+        <record id="res_district_824" model="res.district">
+            <field name="name">อ.ถลาง</field>
+        </record>
+
+        <record id="res_district_16" model="res.district">
+            <field name="name">อ.กรงปินัง</field>
+        </record>
+
+        <record id="res_district_564" model="res.district">
+            <field name="name">อ.บันนังสตา</field>
+        </record>
+
+        <record id="res_district_82" model="res.district">
+            <field name="name">อ.รามัน</field>
+        </record>
+
+        <record id="res_district_104" model="res.district">
+            <field name="name">อ.ยะหา</field>
+        </record>
+
+        <record id="res_district_105" model="res.district">
+            <field name="name">อ.กาบัง</field>
+        </record>
+
+        <record id="res_district_364" model="res.district">
+            <field name="name">อ.ธารโต</field>
+        </record>
+
+        <record id="res_district_588" model="res.district">
+            <field name="name">อ.เมืองยะลา</field>
+        </record>
+
+        <record id="res_district_589" model="res.district">
+            <field name="name">อ.เบตง</field>
+        </record>
+
+        <record id="res_district_22" model="res.district">
+            <field name="name">อ.บางคนที</field>
+        </record>
+
+        <record id="res_district_666" model="res.district">
+            <field name="name">อ.อัมพวา</field>
+        </record>
+
+        <record id="res_district_301" model="res.district">
+            <field name="name">อ.เมืองสมุทรสงคราม</field>
+        </record>
+
+        <record id="res_district_513" model="res.district">
+            <field name="name">อ.บางแพ</field>
+        </record>
+
+        <record id="res_district_518" model="res.district">
+            <field name="name">อ.ปากท่อ</field>
+        </record>
+
+        <record id="res_district_52" model="res.district">
+            <field name="name">อ.บ้านโป่ง</field>
+        </record>
+
+        <record id="res_district_260" model="res.district">
+            <field name="name">อ.โพธาราม</field>
+        </record>
+
+        <record id="res_district_396" model="res.district">
+            <field name="name">อ.จอมบึง</field>
+        </record>
+
+        <record id="res_district_231" model="res.district">
+            <field name="name">อ.ดำเนินสะดวก</field>
+        </record>
+
+        <record id="res_district_371" model="res.district">
+            <field name="name">อ.เมืองราชบุรี</field>
+        </record>
+
+        <record id="res_district_780" model="res.district">
+            <field name="name">อ.บ้านคา</field>
+        </record>
+
+        <record id="res_district_571" model="res.district">
+            <field name="name">อ.สวนผึ้ง</field>
+        </record>
+
+        <record id="res_district_397" model="res.district">
+            <field name="name">อ.วัดเพลง</field>
+        </record>
+
+        <record id="res_district_242" model="res.district">
+            <field name="name">อ.เมืองกำแพงเพชร</field>
+        </record>
+
+        <record id="res_district_412" model="res.district">
+            <field name="name">อ.ลานกระบือ</field>
+        </record>
+
+        <record id="res_district_822" model="res.district">
+            <field name="name">อ.ปางศิลาทอง</field>
+        </record>
+
+        <record id="res_district_254" model="res.district">
+            <field name="name">อ.คลองขลุง</field>
+        </record>
+
+        <record id="res_district_838" model="res.district">
+            <field name="name">อ.ไทรงาม</field>
+        </record>
+
+        <record id="res_district_602" model="res.district">
+            <field name="name">อ.ทรายทองวัฒนา</field>
+        </record>
+
+        <record id="res_district_536" model="res.district">
+            <field name="name">อ.ขาณุวรลักษบุรี</field>
+        </record>
+
+        <record id="res_district_278" model="res.district">
+            <field name="name">อ.คลองลาน</field>
+        </record>
+
+        <record id="res_district_286" model="res.district">
+            <field name="name">อ.พรานกระต่าย</field>
+        </record>
+
+        <record id="res_district_773" model="res.district">
+            <field name="name">อ.บึงสามัคคี</field>
+        </record>
+
+        <record id="res_district_852" model="res.district">
+            <field name="name">อ.โกสัมพีนคร</field>
+        </record>
+
+        <record id="res_district_435" model="res.district">
+            <field name="name">อ.เมืองเพชรบูรณ์</field>
+        </record>
+
+        <record id="res_district_426" model="res.district">
+            <field name="name">อ.ชนแดน</field>
+        </record>
+
+        <record id="res_district_78" model="res.district">
+            <field name="name">อ.หนองไผ่</field>
+        </record>
+
+        <record id="res_district_582" model="res.district">
+            <field name="name">อ.หล่มเก่า</field>
+        </record>
+
+        <record id="res_district_468" model="res.district">
+            <field name="name">อ.หล่มสัก</field>
+        </record>
+
+        <record id="res_district_101" model="res.district">
+            <field name="name">อ.บึงสามพัน</field>
+        </record>
+
+        <record id="res_district_248" model="res.district">
+            <field name="name">อ.ศรีเทพ</field>
+        </record>
+
+        <record id="res_district_473" model="res.district">
+            <field name="name">อ.วิเชียรบุรี</field>
+        </record>
+
+        <record id="res_district_476" model="res.district">
+            <field name="name">อ.วังโป่ง</field>
+        </record>
+
+        <record id="res_district_651" model="res.district">
+            <field name="name">อ.เขาค้อ</field>
+        </record>
+
+        <record id="res_district_749" model="res.district">
+            <field name="name">อ.น้ำหนาว</field>
+        </record>
+
+        <record id="res_district_596" model="res.district">
+            <field name="name">อ.เมืองลำพูน</field>
+        </record>
+
+        <record id="res_district_189" model="res.district">
+            <field name="name">อ.ลี้</field>
+        </record>
+
+        <record id="res_district_674" model="res.district">
+            <field name="name">อ.ป่าซาง</field>
+        </record>
+
+        <record id="res_district_572" model="res.district">
+            <field name="name">อ.ทุ่งหัวช้าง</field>
+        </record>
+
+        <record id="res_district_622" model="res.district">
+            <field name="name">อ.แม่ทา</field>
+        </record>
+
+        <record id="res_district_788" model="res.district">
+            <field name="name">อ.บ้านธิ</field>
+        </record>
+
+        <record id="res_district_809" model="res.district">
+            <field name="name">อ.บ้านโฮ่ง</field>
+        </record>
+
+        <record id="res_district_859" model="res.district">
+            <field name="name">อ.เวียงหนองล่อง</field>
+        </record>
+
+        <record id="res_district_568" model="res.district">
+            <field name="name">อ.ทัพทัน</field>
+        </record>
+
+        <record id="res_district_511" model="res.district">
+            <field name="name">อ.เมืองอุทัยธานี</field>
+        </record>
+
+        <record id="res_district_638" model="res.district">
+            <field name="name">อ.ลานสัก</field>
+        </record>
+
+        <record id="res_district_482" model="res.district">
+            <field name="name">อ.หนองขาหย่าง</field>
+        </record>
+
+        <record id="res_district_325" model="res.district">
+            <field name="name">อ.บ้านไร่</field>
+        </record>
+
+        <record id="res_district_776" model="res.district">
+            <field name="name">อ.สว่างอารมณ์</field>
+        </record>
+
+        <record id="res_district_644" model="res.district">
+            <field name="name">อ.หนองฉาง</field>
+        </record>
+
+        <record id="res_district_612" model="res.district">
+            <field name="name">อ.ห้วยคต</field>
+        </record>
+
+        <record id="res_district_489" model="res.district">
+            <field name="name">อ.ลืออำนาจ</field>
+        </record>
+
+        <record id="res_district_738" model="res.district">
+            <field name="name">อ.เสนางคนิคม</field>
+        </record>
+
+        <record id="res_district_345" model="res.district">
+            <field name="name">อ.หัวตะพาน</field>
+        </record>
+
+        <record id="res_district_359" model="res.district">
+            <field name="name">อ.ปทุมราชวงศา</field>
+        </record>
+
+        <record id="res_district_160" model="res.district">
+            <field name="name">อ.เมืองอำนาจเจริญ</field>
+        </record>
+
+        <record id="res_district_352" model="res.district">
+            <field name="name">อ.ชานุมาน</field>
+        </record>
+
+        <record id="res_district_415" model="res.district">
+            <field name="name">อ.พนา</field>
+        </record>
+
+        <record id="res_district_557" model="res.district">
+            <field name="name">อ.พระประแดง</field>
+        </record>
+
+        <record id="res_district_700" model="res.district">
+            <field name="name">อ.เมืองสมุทรปราการ</field>
+        </record>
+
+        <record id="res_district_735" model="res.district">
+            <field name="name">อ.พระสมุทรเจดีย์</field>
+        </record>
+
+        <record id="res_district_760" model="res.district">
+            <field name="name">อ.บางพลี</field>
+        </record>
+
+        <record id="res_district_266" model="res.district">
+            <field name="name">อ.บางบ่อ</field>
+        </record>
+
+        <record id="res_district_766" model="res.district">
+            <field name="name">อ.บางเสาธง</field>
+        </record>
+
+        <record id="res_district_103" model="res.district">
+            <field name="name">อ.เมืองแพร่</field>
+        </record>
+
+        <record id="res_district_592" model="res.district">
+            <field name="name">อ.หนองม่วงไข่</field>
+        </record>
+
+        <record id="res_district_525" model="res.district">
+            <field name="name">อ.สูงเม่น</field>
+        </record>
+
+        <record id="res_district_640" model="res.district">
+            <field name="name">อ.สอง</field>
+        </record>
+
+        <record id="res_district_815" model="res.district">
+            <field name="name">อ.เด่นชัย</field>
+        </record>
+
+        <record id="res_district_600" model="res.district">
+            <field name="name">อ.ลอง</field>
+        </record>
+
+        <record id="res_district_727" model="res.district">
+            <field name="name">อ.วังชิ้น</field>
+        </record>
+
+        <record id="res_district_649" model="res.district">
+            <field name="name">อ.ร้องกวาง</field>
+        </record>
+
+        <record id="res_district_29" model="res.district">
+            <field name="name">อ.เมืองกระบี่</field>
+        </record>
+
+        <record id="res_district_253" model="res.district">
+            <field name="name">อ.เหนือคลอง</field>
+        </record>
+
+        <record id="res_district_289" model="res.district">
+            <field name="name">อ.อ่าวลึก</field>
+        </record>
+
+        <record id="res_district_290" model="res.district">
+            <field name="name">อ.เกาะลันตา</field>
+        </record>
+
+        <record id="res_district_273" model="res.district">
+            <field name="name">อ.คลองท่อม</field>
+        </record>
+
+        <record id="res_district_363" model="res.district">
+            <field name="name">อ.ปลายพระยา</field>
+        </record>
+
+        <record id="res_district_544" model="res.district">
+            <field name="name">อ.ลำทับ</field>
+        </record>
+
+        <record id="res_district_835" model="res.district">
+            <field name="name">อ.เขาพนม</field>
+        </record>
+
+        <record id="res_district_120" model="res.district">
+            <field name="name">อ.ละงู</field>
+        </record>
+
+        <record id="res_district_746" model="res.district">
+            <field name="name">อ.มะนัง</field>
+        </record>
+
+        <record id="res_district_321" model="res.district">
+            <field name="name">อ.ควนโดน</field>
+        </record>
+
+        <record id="res_district_695" model="res.district">
+            <field name="name">อ.ท่าแพ</field>
+        </record>
+
+        <record id="res_district_258" model="res.district">
+            <field name="name">อ.เมืองสตูล</field>
+        </record>
+
+        <record id="res_district_201" model="res.district">
+            <field name="name">อ.ทุ่งหว้า</field>
+        </record>
+
+        <record id="res_district_314" model="res.district">
+            <field name="name">อ.ควนกาหลง</field>
+        </record>
+
+        <record id="res_district_398" model="res.district">
+            <field name="name">อ.ท่าวังผา</field>
+        </record>
+
+        <record id="res_district_67" model="res.district">
+            <field name="name">อ.เวียงสา</field>
+        </record>
+
+        <record id="res_district_77" model="res.district">
+            <field name="name">อ.เมืองน่าน</field>
+        </record>
+
+        <record id="res_district_724" model="res.district">
+            <field name="name">อ.นาน้อย</field>
+        </record>
+
+        <record id="res_district_833" model="res.district">
+            <field name="name">อ.เชียงกลาง</field>
+        </record>
+
+        <record id="res_district_821" model="res.district">
+            <field name="name">อ.ปัว</field>
+        </record>
+
+        <record id="res_district_383" model="res.district">
+            <field name="name">อ.ทุ่งช้าง</field>
+        </record>
+
+        <record id="res_district_427" model="res.district">
+            <field name="name">อ.สองแคว</field>
+        </record>
+
+        <record id="res_district_747" model="res.district">
+            <field name="name">อ.แม่จริม</field>
+        </record>
+
+        <record id="res_district_491" model="res.district">
+            <field name="name">อ.บ่อเกลือ</field>
+        </record>
+
+        <record id="res_district_720" model="res.district">
+            <field name="name">อ.นาหมื่น</field>
+        </record>
+
+        <record id="res_district_549" model="res.district">
+            <field name="name">อ.สันติสุข</field>
+        </record>
+
+        <record id="res_district_677" model="res.district">
+            <field name="name">อ.ภูเพียง</field>
+        </record>
+
+        <record id="res_district_793" model="res.district">
+            <field name="name">อ.บ้านหลวง</field>
+        </record>
+
+        <record id="res_district_119" model="res.district">
+            <field name="name">อ.บางสะพาน</field>
+        </record>
+
+        <record id="res_district_618" model="res.district">
+            <field name="name">อ.ทับสะแก</field>
+        </record>
+
+        <record id="res_district_471" model="res.district">
+            <field name="name">อ.บางสะพานน้อย</field>
+        </record>
+
+        <record id="res_district_818" model="res.district">
+            <field name="name">อ.ปราณบุรี</field>
+        </record>
+
+        <record id="res_district_619" model="res.district">
+            <field name="name">อ.หัวหิน</field>
+        </record>
+
+        <record id="res_district_181" model="res.district">
+            <field name="name">อ.กุยบุรี</field>
+        </record>
+
+        <record id="res_district_292" model="res.district">
+            <field name="name">อ.เมืองประจวบคีรีขันธ์</field>
+        </record>
+
+        <record id="res_district_861" model="res.district">
+            <field name="name">อ.สามร้อยยอด</field>
+        </record>
+
+        <record id="res_district_648" model="res.district">
+            <field name="name">อ.ปาย</field>
+        </record>
+
+        <record id="res_district_76" model="res.district">
+            <field name="name">อ.สบเมย</field>
+        </record>
+
+        <record id="res_district_395" model="res.district">
+            <field name="name">อ.เมืองแม่ฮ่องสอน</field>
+        </record>
+
+        <record id="res_district_779" model="res.district">
+            <field name="name">อ.แม่สะเรียง</field>
+        </record>
+
+        <record id="res_district_232" model="res.district">
+            <field name="name">อ.ขุนยวม</field>
+        </record>
+
+        <record id="res_district_235" model="res.district">
+            <field name="name">อ.แม่ลาน้อย</field>
+        </record>
+
+        <record id="res_district_604" model="res.district">
+            <field name="name">อ.ปางมะผ้า</field>
+        </record>
+
+        <record id="res_district_420" model="res.district">
+            <field name="name">อ.แสวงหา</field>
+        </record>
+
+        <record id="res_district_350" model="res.district">
+            <field name="name">อ.โพธิ์ทอง</field>
+        </record>
+
+        <record id="res_district_252" model="res.district">
+            <field name="name">อ.วิเศษชัยชาญ</field>
+        </record>
+
+        <record id="res_district_291" model="res.district">
+            <field name="name">อ.เมืองอ่างทอง</field>
+        </record>
+
+        <record id="res_district_705" model="res.district">
+            <field name="name">อ.ป่าโมก</field>
+        </record>
+
+        <record id="res_district_393" model="res.district">
+            <field name="name">อ.ไชโย</field>
+        </record>
+
+        <record id="res_district_841" model="res.district">
+            <field name="name">อ.สามโก้</field>
+        </record>
+
+        <record id="res_district_874" model="res.district">
+            <field name="name">เขตหนองจอก</field>
+        </record>
+
+        <record id="res_district_875" model="res.district">
+            <field name="name">เขตลาดกระบัง</field>
+        </record>
+
+        <record id="res_district_876" model="res.district">
+            <field name="name">เขตบึงกุ่ม</field>
+        </record>
+
+        <record id="res_district_877" model="res.district">
+            <field name="name">เขตภาษีเจริญ</field>
+        </record>
+
+        <record id="res_district_909" model="res.district">
+            <field name="name">เขตพระโขนง</field>
+        </record>
+
+        <record id="res_district_878" model="res.district">
+            <field name="name">เขตบางกะปิ</field>
+        </record>
+
+        <record id="res_district_879" model="res.district">
+            <field name="name">เขตตลิ่งชัน</field>
+        </record>
+
+        <record id="res_district_880" model="res.district">
+            <field name="name">เขตคลองเตย</field>
+        </record>
+
+        <record id="res_district_881" model="res.district">
+            <field name="name">เขตวัฒนา</field>
+        </record>
+
+        <record id="res_district_882" model="res.district">
+            <field name="name">เขตคลองสาน</field>
+        </record>
+
+        <record id="res_district_883" model="res.district">
+            <field name="name">เขตสายไหม</field>
+        </record>
+
+        <record id="res_district_884" model="res.district">
+            <field name="name">เขตป้อมปราบศัตรูพ่าย</field>
+        </record>
+
+        <record id="res_district_885" model="res.district">
+            <field name="name">เขตวังทองหลาง</field>
+        </record>
+
+        <record id="res_district_886" model="res.district">
+            <field name="name">เขตคันนายาว</field>
+        </record>
+
+        <record id="res_district_887" model="res.district">
+            <field name="name">เขตจตุจักร</field>
+        </record>
+
+        <record id="res_district_888" model="res.district">
+            <field name="name">เขตลาดพร้าว</field>
+        </record>
+
+        <record id="res_district_889" model="res.district">
+            <field name="name">เขตจอมทอง</field>
+        </record>
+
+        <record id="res_district_902" model="res.district">
+            <field name="name">เขตทุ่งครุ</field>
+        </record>
+
+        <record id="res_district_890" model="res.district">
+            <field name="name">เขตสัมพันธวงศ์</field>
+        </record>
+
+        <record id="res_district_891" model="res.district">
+            <field name="name">เขตพระนคร</field>
+        </record>
+
+        <record id="res_district_892" model="res.district">
+            <field name="name">เขตยานนาวา</field>
+        </record>
+
+        <record id="res_district_893" model="res.district">
+            <field name="name">เขตประเวศ</field>
+        </record>
+
+        <record id="res_district_894" model="res.district">
+            <field name="name">เขตดอนเมือง</field>
+        </record>
+
+        <record id="res_district_895" model="res.district">
+            <field name="name">เขตธนบุรี</field>
+        </record>
+
+        <record id="res_district_896" model="res.district">
+            <field name="name">เขตดินแดง</field>
+        </record>
+
+        <record id="res_district_897" model="res.district">
+            <field name="name">เขตดุสิต</field>
+        </record>
+
+        <record id="res_district_898" model="res.district">
+            <field name="name">เขตหลักสี่</field>
+        </record>
+
+        <record id="res_district_899" model="res.district">
+            <field name="name">เขตราชเทวี</field>
+        </record>
+
+        <record id="res_district_900" model="res.district">
+            <field name="name">เขตคลองสามวา</field>
+        </record>
+
+        <record id="res_district_901" model="res.district">
+            <field name="name">เขตทวีวัฒนา</field>
+        </record>
+
+        <record id="res_district_903" model="res.district">
+            <field name="name">เขตสาทร</field>
+        </record>
+
+        <record id="res_district_904" model="res.district">
+            <field name="name">เขตบางขุนเทียน</field>
+        </record>
+
+        <record id="res_district_905" model="res.district">
+            <field name="name">เขตบางเขน</field>
+        </record>
+
+        <record id="res_district_906" model="res.district">
+            <field name="name">เขตห้วยขวาง</field>
+        </record>
+
+        <record id="res_district_907" model="res.district">
+            <field name="name">เขตบางกอกน้อย</field>
+        </record>
+
+        <record id="res_district_908" model="res.district">
+            <field name="name">เขตบางคอแหลม</field>
+        </record>
+
+        <record id="res_district_910" model="res.district">
+            <field name="name">เขตบางซื่อ</field>
+        </record>
+
+        <record id="res_district_911" model="res.district">
+            <field name="name">เขตบางนา</field>
+        </record>
+
+        <record id="res_district_912" model="res.district">
+            <field name="name">เขตบางบอน</field>
+        </record>
+
+        <record id="res_district_913" model="res.district">
+            <field name="name">เขตบางพลัด</field>
+        </record>
+
+        <record id="res_district_914" model="res.district">
+            <field name="name">เขตราษฎร์บูรณะ</field>
+        </record>
+
+        <record id="res_district_915" model="res.district">
+            <field name="name">เขตบางรัก</field>
+        </record>
+
+        <record id="res_district_916" model="res.district">
+            <field name="name">เขตบางแค</field>
+        </record>
+
+        <record id="res_district_917" model="res.district">
+            <field name="name">เขตปทุมวัน</field>
+        </record>
+
+        <record id="res_district_918" model="res.district">
+            <field name="name">เขตมีนบุรี</field>
+        </record>
+
+        <record id="res_district_919" model="res.district">
+            <field name="name">เขตบางกอกใหญ่</field>
+        </record>
+
+        <record id="res_district_920" model="res.district">
+            <field name="name">เขตสวนหลวง</field>
+        </record>
+
+        <record id="res_district_921" model="res.district">
+            <field name="name">เขตสะพานสูง</field>
+        </record>
+
+        <record id="res_district_922" model="res.district">
+            <field name="name">เขตพญาไท</field>
+        </record>
+
+        <record id="res_district_923" model="res.district">
+            <field name="name">เขตหนองแขม</field>
+        </record>
+    </data>
+</odoo>
